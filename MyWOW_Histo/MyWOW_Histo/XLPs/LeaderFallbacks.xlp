@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ANASTERIAN_SUNSTRIDER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ANASTERIAN_SUNSTRIDER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LLANE_WRYNN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LLANE_WRYNN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_BLACKHAND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_BLACKHAND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ORGRIM_DOOMHAMMER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ORGRIM_DOOMHAMMER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GULDAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GULDAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_KAELTHAS_SUNSTRIDER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_KAELTHAS_SUNSTRIDER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MAGNI_BRONZEBEARD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MAGNI_BRONZEBEARD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MALFURION"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MALFURION"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AZHARA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AZHARA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TERENAS_MENETHIL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TERENAS_MENETHIL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LEI_SHEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LEI_SHEN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SHAOHAO"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SHAOHAO"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GROMMASH_HELLSCREAM_AU"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GROMMASH_HELLSCREAM_AU"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GULDAN_AU"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GULDAN_AU"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ILLIDAN_STORMRAGE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ILLIDAN_STORMRAGE"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Quel'Thalas | Anasterian Sunstrider-->
+		<Replace Tag="LOC_LEADER_ANASTERIAN_SUNSTRIDER_NAME" Language="zh_Hans_CN">
+			<Text>安纳斯特里亚·逐日者</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_NAME" Language="zh_Hans_CN">
+			<Text>奎尔萨拉斯之王</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>国际贸易路线+1 [ICON_Culture] 文化值和+1 [ICON_Science] 科技值。剧院广场区域+100% [ICON_Culture] 文化值收益。</Text>
+		</Replace>
+		<!-- END Quel'Thalas | Anasterian Sunstrider-->
+		<!-- HUMANS | LLANE_WRYNN-->
+		<Replace Tag="LOC_LEADER_LLANE_WRYNN_NAME" Language="zh_Hans_CN">
+			<Text>莱恩·乌瑞恩</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENDER_OF_AZEROTH_NAME" Language="zh_Hans_CN">
+			<Text>艾泽拉斯守护者</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENDER_OF_AZEROTH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>作为宗主国时，每个下辖的城邦使您的 [ICON_Culture] 文化值+5%。</Text>
+		</Replace>
+		<!-- END HUMANS | LLANE_WRYNN-->
+		<!-- ORC | BLACKHAND-->
+		<Replace Tag="LOC_CIVILIZATION_ORCISH_HORDE_NAME" Language="zh_Hans_CN">
+			<Text>兽人部落</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORCISH_HORDE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>兽人部落</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORCISH_HORDE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>兽人</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BLACKHAND_NAME" Language="zh_Hans_CN">
+			<Text>布莱克汉</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DESTROYER_NAME" Language="zh_Hans_CN">
+			<Text>毁灭者</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DESTROYER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业区每个相邻山脉单元格获得标准 [ICON_Production] 生产力加成。 All mines gives 1 [ICON_Gold] Gold, 1 [ICON_Production] Production.</Text>
+		</Replace>
+		<!-- END ORC | BLACKHAND-->
+		<!-- ORC | ORGRIM_DOOMHAMMER-->
+		<Replace Tag="LOC_LEADER_ORGRIM_DOOMHAMMER_NAME" Language="zh_Hans_CN">
+			<Text>奥格瑞姆·毁灭之锤</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DOOMHAMMER_NAME" Language="zh_Hans_CN">
+			<Text>毁灭之锤</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DOOMHAMMER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有在您非起源大陆上创建或攻占的城市都会获得一个免费近战单位。</Text>
+		</Replace>
+		<!-- END ORC | ORGRIM_DOOMHAMMER-->
+		<!-- ORC | GULDAN-->
+		<Replace Tag="LOC_LEADER_GULDAN_NAME" Language="zh_Hans_CN">
+			<Text>古尔丹</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARKNESS_INCARNATE_NAME" Language="zh_Hans_CN">
+			<Text>黑暗化身</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARKNESS_INCARNATE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可用 [ICON_Faith] 信仰值购买任何单位。</Text>
+		</Replace>
+		<!-- END ORC | GULDAN-->
+		<!-- BLOOD ELFS | KAELTHAS_SUNSTRIDER-->
+		<Replace Tag="LOC_LEADER_KAELTHAS_SUNSTRIDER_NAME" Language="zh_Hans_CN">
+			<Text>凯尔萨斯·逐日者</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SUN_KING_NAME" Language="zh_Hans_CN">
+			<Text>太阳之王</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SUN_KING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>目的地已开发的每个奢侈资源和战略资源为您的国际 [ICON_TradeRoute] 贸易路线+1 [ICON_Gold] 金币，同时+2 [ICON_Culture] 文化值和+2 [ICON_Science] 科技值。</Text>
+		</Replace>
+		<!-- END BLOOD ELFS | KAELTHAS_SUNSTRIDER-->
+		<!-- DWARVES | MAGNI_BRONZEBEARD-->
+		<Replace Tag="LOC_LEADER_MAGNI_BRONZEBEARD_NAME" Language="zh_Hans_CN">
+			<Text>麦格尼·铜须</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DIAMOND_KING_NAME" Language="zh_Hans_CN">
+			<Text>钻石之王</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DIAMOND_KING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有区域与每个其他相邻区域获得额外标准加成。</Text>
+		</Replace>
+		<!-- END DWARVES | MAGNI_BRONZEBEARD-->
+		<!-- NIGHT ELVES | MALFURION-->
+		<Replace Tag="LOC_LEADER_MALFURION_NAME" Language="zh_Hans_CN">
+			<Text>玛法里奥·怒风</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHANDO_NAME" Language="zh_Hans_CN">
+			<Text>大德鲁伊</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHANDO_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>玩家可以使用平时 [ICON_Faith] 信仰值消耗的1/10来购买他们宗教的祭祀建筑。这种祭祀建筑为暗夜精灵城市的 [ICON_Science] 科技值、 [ICON_Faith] 信仰值、 [ICON_Culture] 文化值增加10%产量。</Text>
+		</Replace>
+		<!-- END NIGHT ELVES | MALFURION-->
+		<!-- KALDOREI_EMPIRE | Azhara-->
+		<Replace Tag="LOC_CIVILIZATION_KALDOREI_EMPIRE_NAME" Language="zh_Hans_CN">
+			<Text>卡多雷帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KALDOREI_EMPIRE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>卡多雷帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KALDOREI_EMPIRE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>卡多雷</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_QUEL_DOREI_NAME" Language="zh_Hans_CN">
+			<Text>奎尔多雷</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_QUEL_DOREI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有您创建或攻占的城市一开始便拥有贸易站。如果位于您 [ICON_Capital] 首都的 [ICON_TradeRoute] 贸易路线范围内，他们也得经过首都。您的 [ICON_TradeRoute] 贸易路线经过您的城市贸易站+1 [ICON_Gold] 金币。
+</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AZHARA_NAME" Language="zh_Hans_CN">
+			<Text>艾萨拉</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LIGHT_OF_LIGHTS_NAME" Language="zh_Hans_CN">
+			<Text>光中之光</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LIGHT_OF_LIGHTS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每种政体可获得一个额外的通配符槽位。</Text>
+		</Replace>
+		<!-- END KALDOREI_EMPIRE | Azhara-->
+		<!-- LORDAERON | TERENAS_MENETHIL-->
+		<Replace Tag="LOC_CIVILIZATION_LORDAERON_NAME" Language="zh_Hans_CN">
+			<Text>洛丹伦</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LORDAERON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>洛丹伦王国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LORDAERON_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>洛丹伦</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ALLIANCE_OF_LORDAERON_NAME" Language="zh_Hans_CN">
+			<Text>联盟的洛丹伦</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ALLIANCE_OF_LORDAERON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可以向正在与其盟友交战的文明宣战，而不影响好战程度。进行联合作战时，如果他们与其同盟位于5个单元格以内，则共享掠夺奖励和战斗经验值收益。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TERENAS_MENETHIL_NAME" Language="zh_Hans_CN">
+			<Text>泰瑞纳斯·米奈希尔</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_TRUE_KING_LORDAERON_NAME" Language="zh_Hans_CN">
+			<Text>最后的洛丹伦王</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_TRUE_KING_LORDAERON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>单位在本国所在的大陆时，获得+5 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<!-- END LORDAERON | TERENAS_MENETHIL-->
+		<!-- MOGU_EMPIRE | LEI_SHEN-->
+		<Replace Tag="LOC_CIVILIZATION_MOGU_EMPIRE_NAME" Language="zh_Hans_CN">
+			<Text>魔古帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGU_EMPIRE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>魔古帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGU_EMPIRE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>魔古</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TITAN_FORGED_NAME" Language="zh_Hans_CN">
+			<Text>泰坦锻造</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TITAN_FORGED_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>有机会将其他文明的军事单位俘获并变为建造者。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_LEI_SHEN_NAME" Language="zh_Hans_CN">
+			<Text>雷神</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THUNDER_KING_NAME" Language="zh_Hans_CN">
+			<Text>雷电之王</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THUNDER_KING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使用建造者劳动力来完成20%的原有区域消耗。在建造远古时期和古典时代的奇观时，您可以消耗 [ICON_Builder] 建造者的使用次数来加速奇观建造，每次加速的效果等价于奇观初始造价的15%。建造者会获得额外的使用次数。</Text>
+		</Replace>
+		<!-- END MOGU_EMPIRE | LEI_SHEN-->
+		<!-- PANDAREN_EMPIRE | SHAOHAO-->
+		<Replace Tag="LOC_CIVILIZATION_PANDAREN_EMPIRE_NAME" Language="zh_Hans_CN">
+			<Text>熊猫人帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PANDAREN_EMPIRE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>熊猫人帝国</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PANDAREN_EMPIRE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>熊猫人</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MISTS_OF_PANDARIA_NAME" Language="zh_Hans_CN">
+			<Text>潘达利亚迷雾</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MISTS_OF_PANDARIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每座城市都能建造比平常多一个区域（无视 [ICON_Citizen] 人口数量限制）。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SHAOHAO_NAME" Language="zh_Hans_CN">
+			<Text>少昊</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEART_OF_PANDARIA_NAME" Language="zh_Hans_CN">
+			<Text>潘达利亚之心</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEART_OF_PANDARIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有贸易路线+1 [ICON_Faith] 信仰值。圣地区域+100% [ICON_Faith] 信仰值收益。</Text>
+		</Replace>
+		<!-- END PANDAREN_EMPIRE | SHAOHAO-->
+		<!-- IRON_HORDE | GROMMASH_HELLSCREAM_AU-->
+		<Replace Tag="LOC_CIVILIZATION_IRON_HORDE_NAME" Language="zh_Hans_CN">
+			<Text>钢铁部落</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_IRON_HORDE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>钢铁部落</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_IRON_HORDE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>钢铁部落</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRONMARCH_NAME" Language="zh_Hans_CN">
+			<Text>钢铁行军</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRONMARCH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>攻击伤兵单位时，所有单位+5 [ICON_Strength] 战斗力。消灭一个单位时，恢复50生命值。</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GROMMASH_HELLSCREAM_AU_NAME" Language="zh_Hans_CN">
+			<Text>格罗玛什·地狱咆哮·AU</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRON_WILL_NAME" Language="zh_Hans_CN">
+			<Text>钢铁意志</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRON_WILL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每种政体可获得一个额外的通配符槽位。</Text>
+		</Replace>
+		<!-- END IRON_HORDE | GROMMASH_HELLSCREAM_AU-->
+		<!-- IRON_HORDE | GULDAN_AU-->
+		<Replace Tag="LOC_LEADER_GULDAN_AU_NAME" Language="zh_Hans_CN">
+			<Text>古尔丹·AU</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_FIRST_WARLOCK_NAME" Language="zh_Hans_CN">
+			<Text>第一个术士</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_FIRST_WARLOCK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可用 [ICON_Faith] 信仰值购买任何单位。</Text>
+		</Replace>
+		<!-- END IRON_HORDE | GULDAN_AU-->
+	</LocalizedText>
+</GameData>

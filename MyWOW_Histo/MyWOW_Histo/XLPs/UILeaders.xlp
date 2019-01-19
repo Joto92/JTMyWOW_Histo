@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANASTERIAN_SUNSTRIDER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ANASTERIAN_SUNSTRIDER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LLANE_WRYNN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LLANE_WRYNN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LLANE_WRYNN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LLANE_WRYNN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BLACKHAND_NEUTRAL"/>
+			<m_ObjectName text="LEADER_BLACKHAND_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BLACKHAND_BACKGROUND"/>
+			<m_ObjectName text="LEADER_BLACKHAND_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ORGRIM_DOOMHAMMER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ORGRIM_DOOMHAMMER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ORGRIM_DOOMHAMMER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ORGRIM_DOOMHAMMER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GULDAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GULDAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GULDAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GULDAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KAELTHAS_SUNSTRIDER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_KAELTHAS_SUNSTRIDER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KAELTHAS_SUNSTRIDER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_KAELTHAS_SUNSTRIDER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAGNI_BRONZEBEARD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MAGNI_BRONZEBEARD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAGNI_BRONZEBEARD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MAGNI_BRONZEBEARD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MALFURION_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MALFURION_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MALFURION_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MALFURION_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZHARA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AZHARA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZHARA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AZHARA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TERENAS_MENETHIL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TERENAS_MENETHIL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TERENAS_MENETHIL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TERENAS_MENETHIL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEI_SHEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LEI_SHEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEI_SHEN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LEI_SHEN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SHAOHAO_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SHAOHAO_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SHAOHAO_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SHAOHAO_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GROMMASH_HELLSCREAM_AU_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GROMMASH_HELLSCREAM_AU_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GROMMASH_HELLSCREAM_AU_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GROMMASH_HELLSCREAM_AU_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GULDAN_AU_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GULDAN_AU_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GULDAN_AU_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GULDAN_AU_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ILLIDAN_STORMRAGE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ILLIDAN_STORMRAGE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ILLIDAN_STORMRAGE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ILLIDAN_STORMRAGE_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MyWOW_Histo_TextES -->
+<!-- Author: Jordi -->
+<!-- DateCreated: 12/20/2017 12:01:28 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- Quel'Thalas | Anasterian Sunstrider-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ANASTERIAN_SUNSTRIDER" Language="es_ES">
+			<Text>Anasterian Sunstrider fue el último rey de los elfos nobles. Su reinado, que duró al menos tres mil años, estuvo marcado por varios conflictos que amenazaban la existencia de su reino - y que acaba con la destrucción de Quel'Thalas a manos del malvado Príncipe Arthas Menethil.</Text>
+		</Replace>
+		<!-- END Quel'Thalas | Anasterian Sunstrider-->
+		<!-- HUMANS | LLANE_WRYNN-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LLANE_WRYNN" Language="es_ES">
+			<Text>Llane Wrynn I fue el gobernante del Reino de Azeroth, durante la Primera Guerra. Fue hijo del Rey Adamant Wrynn III y de Lady Varia, y padre del Rey Varian Wrynn.</Text>
+		</Replace>
+		<!-- END HUMANS | LLANE_WRYNN-->
+		<!-- ORC | BLACKHAND-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_BLACKHAND" Language="es_ES">
+			<Text>Blackhand fue el Jefe de Guerra de la Horda durante la Primera Guerra contra el reino de Azeroth. Un asaltante de Sythegore Arm, y uno de los guerreros más respetados de la Horda, Blackhand se convirtió en un grandioso jefe del poderoso clan Blackrock en Draenor. Conocido como un genio en tácticas y un dictador despiadado que exigía el respeto de sus guerreros.</Text>
+		</Replace>
+		<!-- END ORC | BLACKHAND-->
+		<!-- ORC | ORGRIM_DOOMHAMMER-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ORGRIM_DOOMHAMMER" Language="es_ES">
+			<Text>Orgrim Doomhammer, fue el Jefe de Guerra de la Horda orca durante el fin de la Primera Guerra y el principio de la Segunda.</Text>
+		</Replace>
+		<!-- END ORC | ORGRIM_DOOMHAMMER-->
+		<!-- ORC | GULDAN-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GULDAN" Language="es_ES">
+			<Text>Gul'dan fue el brujo más poderoso de la Horda y de facto fundador de la Horda orca. Abandonó el chamanismo y traicionó a su pueblo y a su maestro para servir al señor demonio Kil'jaeden quien le dio poder. Gul'dan fue el responsable directo de la caída de los orcos en la esclavitud así como uno de los autores de la invasión a Azeroth.</Text>
+		</Replace>
+		<!-- END ORC | GULDAN-->
+		<!-- BLOOD ELF | KAELTHAS_SUNSTRIDER-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_KAELTHAS_SUNSTRIDER" Language="es_ES">
+			<Text>El Príncipe Kael'thas Caminante del Sol. fue un alto miembro del Kirin Tor y el Príncipe de Quel'Thalas, el último de la dinastía Caminante del Sol. Tras la caída de Quel'Thalas, Kael'thas lideró a lo que quedaba de su pueblo al servicio de la Alianza. Tratando de aplacar la adicción de su pueblo a la magia, secretamente se alió con Illidan Tempestira y la Legión Ardiente.</Text>
+		</Replace>
+		<!-- END BLOOD ELF | KAELTHAS_SUNSTRIDER-->
+		<!-- DWARVES | MAGNI_BRONZEBEARD-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MAGNI_BRONZEBEARD" Language="es_ES">
+			<Text>Magni Barbabronce era el rey de los enanos del reino de Khaz Modan, Señor de Forjaz y Gran señor feudal del Clan Barbabronce. Durante la Segunda Guerra defendió Forjaz de los orcos y se unió a la Alianza de Lordaeron.</Text>
+		</Replace>
+		<!-- END DWARVES | MAGNI_BRONZEBEARD-->
+		<!-- NIGHT ELVES | MALFURION-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MALFURION" Language="es_ES">
+			<Text>Malfurion Tempestira es el archidruida más grande que jamás haya existido y uno de los mortales más poderosos del universo Warcraft. Malfurion empezó a practicar el druidismo entre los elfos de la noche bajo el tutelaje del semidiós Cenarius llegándose a convertir en el archidruida de los elfos de la noche, el más alto grado de la escala de druidas dentro de la sociedad elfa.</Text>
+		</Replace>
+		<!-- END NIGHT ELVES | MALFURION-->
+		<!-- KALDOREI_EMPIRE | Azhara-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AZHARA" Language="es_ES">
+			<Text>La Reina Azhara fue originalmente la gobernante de los kaldorei, hace 10.000 años. Su fascinante belleza y la fe ciega de su gente, le hicieron caer en una locura que la corrompió y cuyo responsable fue Sargeras, el maestro de la Legión Ardiente. Tras ser derrotada por Malfurion, el Gran Cataclismo la envió junto a su corte de altonatos al fondo del Mare Magnum.</Text>
+		</Replace>
+		<!-- END KALDOREI_EMPIRE | Azhara-->
+		<!-- LORDAERON | TERENAS_MENETHIL-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_TERENAS_MENETHIL" Language="es_ES">
+			<Text>Terenas Menethil II fue el último verdadero líder de Lordaeron y fundador de la Alianza de Lordaeron. Tras gobernar durante siete décadas, incluyendo los periodos entre la Segunda y Tercera Guerras, es considerado uno de los monarcas humanos más poderosos en los últimos tres mil años desde la división de Arathor.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAPITAL_CITY" Language="es_ES">
+			<Text>Ciudad Capital</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARROWSHIRE" Language="es_ES">
+			<Text>Darrowshire</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CORINS_CROSSING" Language="es_ES">
+			<Text>Corin’s Crossing</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DURNHOLDE_KEEP" Language="es_ES">
+			<Text>Durnholde Keep</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HILLSBRAD" Language="es_ES">
+			<Text>Hillsbrad</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACKWOOD" Language="es_ES">
+			<Text>Blackwood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HAVENSHIRE" Language="es_ES">
+			<Text>Havenshire</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SILVERLAINE_KEEP" Language="es_ES">
+			<Text>Silverlaine Keep</Text>
+		</Replace>
+		<!-- END LORDAERON | TERENAS_MENETHIL-->
+		<!-- MOGU_EMPIRE | LEI_SHEN-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LEI_SHEN" Language="es_ES">
+			<Text>El Emperador Lei Shen, también conocido como el Rey Trueno, fue el primer emperador de los mogu. Se dice que le arrancó el corazón al mismísimo Dios mogu. Y con ese despreciable acto, se apoderó del viento y la tormenta. Sus seguidores se arrodillaron ante él.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THRONE_OF_THUNDER" Language="es_ES">
+			<Text>Throne of Thunder</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THUNDER_HOLD" Language="es_ES">
+			<Text>Thunder Hold</Text>
+		</Replace>
+		<!-- END MOGU_EMPIRE | LEI_SHEN-->
+		<!-- PANDAREN_EMPIRE | SHAOHAO-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SHAOHAO" Language="es_ES">
+			<Text>El Emperador Shaohao fue el último emperador de Pandaria. Cuando fue coronado hace 10.000 años, siguió la tradición de todos los emperadores que le habían precedido y pidió consejo al gran orador del agua de los jinyu que, en lugar de darle buenas noticias, le entregó una terrible profecía en la que un reino de hechiceros alrededor de un gran pozo convocando a un ejército de demonios. Llovía fuego verde del cielo y todos los continentes del mundo estaban destrozados.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DAWN_BLOSSOM" Language="es_ES">
+			<Text>Dawn's Blossom</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GREENSTONE_VILLAGE" Language="es_ES">
+			<Text>Greenstone Village</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HONEYDEW" Language="es_ES">
+			<Text>Honeydew</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HALFHILL" Language="es_ES">
+			<Text>Halfhill</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MANDORI" Language="es_ES">
+			<Text>Mandori</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HEARTLAND" Language="es_ES">
+			<Text>Heartland</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STONEPLOW" Language="es_ES">
+			<Text>Stoneplow</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEW_CIFERA" Language="es_ES">
+			<Text>New Cifera</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MISTFALL" Language="es_ES">
+			<Text>Mistfall</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FIVE_DAWNS" Language="es_ES">
+			<Text>Five Dawns</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MORNING_BREEZE" Language="es_ES">
+			<Text>Morning Breeze</Text>
+		</Replace>
+		<!-- END PANDAREN_EMPIRE | SHAOHAO-->
+		<!-- IRON_HORDE | GROMMASH_HELLSCREAM_AU-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GROMMASH_HELLSCREAM_AU" Language="es_ES">
+			<Text>Grommash Grito Infernal es el Jefe de Guerra de la Horda de Hierro. Después de que Garrosh llegara al Draenor de la línea temporal alternativa, trató de persuadir a su padre para que no bebiera la sangre de Mannoroth y peparar tecnológicamente a los orcos con un armamento superior.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HELLFIRE_CITADELL" Language="es_ES">
+			<Text>Hellfire Citadell</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACKROCK_FOUNDRY" Language="es_ES">
+			<Text>Blackrock Foundry</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLADEFIST_HOLD" Language="es_ES">
+			<Text>Bladefist Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GROMMASHAR" Language="es_ES">
+			<Text>Grommashar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IRON_DOCKS" Language="es_ES">
+			<Text>Iron Docks</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HALLVALOR" Language="es_ES">
+			<Text>Hallvalor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLADEFURYS" Language="es_ES">
+			<Text>Bladefurys</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IRONFIST" Language="es_ES">
+			<Text>Ironfist</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HEARTBLOOD" Language="es_ES">
+			<Text>Heartblood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGUISH_FORTRESS" Language="es_ES">
+			<Text>Anguish Fortress</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COLOSSAL_FALL" Language="es_ES">
+			<Text>Colossal’s Fall</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AGURAK_FALL" Language="es_ES">
+			<Text>Agurak’s Fall</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DAGGERMAW_RAVINE" Language="es_ES">
+			<Text>Daggermaw Ravine</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACKROCK_SPIRE" Language="es_ES">
+			<Text>Blackrock Spire</Text>
+		</Replace>
+		<!-- END IRON_HORDE | GROMMASH_HELLSCREAM_AU-->
+		<!-- IRON_HORDE | GULDAN_AU-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GULDAN_AU" Language="es_ES">
+			<Text>Gul'dan es el líder del clan Cazatormentas, el único clan orco que en la línea temporal alternativa de Warlords of Draenor, bebió la sangre de Mannoroth y se entregó a la Legión Ardiente.</Text>
+		</Replace>
+		<!-- END IRON_HORDE | GULDAN_AU-->
+		<!-- City States-->
+		<!-- GORIAN-->
+		<Replace Tag="LOC_MINOR_CIV_GORIAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Production] Producción en Campamentos por adjacencia a Montañas.</Text>
+		</Replace>
+		<Replace Tag="LOC_GORIAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Gorian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLADESPIRE_HOLD" Language="es_ES">
+			<Text>Bladespire Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOODMAUL" Language="es_ES">
+			<Text>Bloodmaul</Text>
+		</Replace>
+		<!-- PINCHWHISTLE-->
+		<Replace Tag="LOC_MINOR_CIV_PINCHWHISTLE_TRAIT_NAME" Language="es_ES">
+			<Text>Pinchwhistle</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_PINCHWHISTLE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>El coste de la compra de parcelas se reduce un 60%.</Text>
+		</Replace>
+		<Replace Tag="LOC_PINCHWHISTLE_NAME" Language="es_ES">
+			<Text>Pinchwhistle</Text>
+		</Replace>
+		<Replace Tag="LOC_PINCHWHISTLE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Pinchwhistle</Text>
+		</Replace>
+		<Replace Tag="LOC_PINCHWHISTLE_ADJECTIVE" Language="es_ES">
+			<Text>Pinchwhistle</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PINCHWHISTLE" Language="es_ES">
+			<Text>Pinchwhistle</Text>
+		</Replace>
+		<!-- SKETTIS-->
+		<Replace Tag="LOC_MINOR_CIV_SKETTIS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Sitios Sagrados ganan +1 [ICON_Faith] Fe por adyacencia a Bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_SKETTIS_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Skettis</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ARAKKOA_SKYREACH" Language="es_ES">
+			<Text>Arakkoa Skyreach</Text>
+		</Replace>
+		<!-- LAUGHING_SKULL_CLAN-->
+		<Replace Tag="LOC_MINOR_CIV_LAUGHING_SKULL_CLAN_TRAIT_NAME" Language="es_ES">
+			<Text>Laughing Skull Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_LAUGHING_SKULL_CLAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Oro [ICON_Gold] equivalente al 25% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+		</Replace>
+		<Replace Tag="LOC_LAUGHING_SKULL_CLAN_NAME" Language="es_ES">
+			<Text>Laughing Skull Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_LAUGHING_SKULL_CLAN_DESCRIPTION" Language="es_ES">
+			<Text>Laughing Skull Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_LAUGHING_SKULL_CLAN_ADJECTIVE" Language="es_ES">
+			<Text>Laughing Skull</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BROKEN_HORN" Language="es_ES">
+			<Text>Broken Horn</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DEADGRIN" Language="es_ES">
+			<Text>Deadgrin</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BEASTWATCH" Language="es_ES">
+			<Text>Beastwatch</Text>
+		</Replace>
+		<!-- FROSTWOLF_CLAN-->
+		<Replace Tag="LOC_MINOR_CIV_FROSTWOLF_CLAN_TRAIT_NAME" Language="es_ES">
+			<Text>Frostwolf Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_FROSTWOLF_CLAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura en Campos de Caza.</Text>
+		</Replace>
+		<Replace Tag="LOC_FROSTWOLF_CLAN_NAME" Language="es_ES">
+			<Text>Frostwolf Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_FROSTWOLF_CLAN_DESCRIPTION" Language="es_ES">
+			<Text>Frostwolf Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_FROSTWOLF_CLAN_ADJECTIVE" Language="es_ES">
+			<Text>Frostwolf</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STONEFANG" Language="es_ES">
+			<Text>Stonefang</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROSTWALL" Language="es_ES">
+			<Text>Frostwall</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WOLFS_STAND" Language="es_ES">
+			<Text>Wolf’s Stand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROSTWOLF_KEEP" Language="es_ES">
+			<Text>Frostwolf Keep</Text>
+		</Replace>
+		<!-- SHADOWMOON_CLAN-->
+		<Replace Tag="LOC_MINOR_CIV_SHADOWMOON_CLAN_TRAIT_NAME" Language="es_ES">
+			<Text>Shadowmoon Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SHADOWMOON_CLAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] a cualquier ciudad-estado proporcionan +2 a Fe [ICON_Faith] por cada distrito de especialización en la ciudad de origen.</Text>
+		</Replace>
+		<Replace Tag="LOC_SHADOWMOON_CLAN_NAME" Language="es_ES">
+			<Text>Shadowmoon Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_SHADOWMOON_CLAN_DESCRIPTION" Language="es_ES">
+			<Text>Shadowmoon Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_SHADOWMOON_CLAN_ADJECTIVE" Language="es_ES">
+			<Text>Shadowmoon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PILLARS_OF_FATE" Language="es_ES">
+			<Text>Pillars of Fate</Text>
+		</Replace>
+		<!-- GARADAR-->
+		<Replace Tag="LOC_MINOR_CIV_GARADAR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Sitios Sagrados dan 1 de Fe [ICON_Faith] si estan al lado de un Rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_GARADAR_DESCRIPTION" Language="es_ES">
+			<Text>Garadar</Text>
+		</Replace>
+		<!-- SHATTRATH-->
+		<Replace Tag="LOC_MINOR_CIV_SHATTRATH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas de Comercio [ICON_TRADEROUTE] de otras civilizaciones proporcionan +2 Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_SHATTRATH_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Shattrath</Text>
+		</Replace>
+		<!-- AREA52-->
+		<Replace Tag="LOC_MINOR_CIV_AREA52_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Los efectos regionales de tus distritos de Zona industrial y de Complejo de ocio llegan 3 casillas más lejos.</Text>
+		</Replace>
+		<Replace Tag="LOC_AREA52_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Area 52</Text>
+		</Replace>
+		<!-- STORMSPIRE-->
+		<Replace Tag="LOC_MINOR_CIV_STORMSPIRE_TRAIT_NAME" Language="es_ES">
+			<Text>The Stormspire</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_STORMSPIRE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+2 a Ciencia [ICON_Science] por las Rutas comerciales [ICON_TradeRoute] internacionales.</Text>
+		</Replace>
+		<Replace Tag="LOC_STORMSPIRE_NAME" Language="es_ES">
+			<Text>Stormspire</Text>
+		</Replace>
+		<Replace Tag="LOC_STORMSPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Stormspire</Text>
+		</Replace>
+		<Replace Tag="LOC_STORMSPIRE_ADJECTIVE" Language="es_ES">
+			<Text>Stormspire</Text>
+		</Replace>
+		<!-- End of City States-->
+		<!-- ILLIDAN-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ILLIDAN_STORMRAGE" Language="es_ES">
+			<Text>Illidan Tempestira fue el autoproclamado Señor de Terrallende, que gobernó desde el Templo Oscuro. Illidan nació como un elfo de la noche, y, en palabras de Maiev Cantosombrío "no es un demonio ni un elfo de la noche, sino algo más". Es el hermano gemelo de Malfurion, y, al igual que él, siempre estuvo enamorado de Tyrande. Es difícil clasificar todos sus poderes, por el hecho de que el aprendió muchos hechizos siendo cazador de demonios, hechicero, y habiendo recibido los poderes de la Calavera de Gul'dan. </Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACK_TEMPLE" Language="es_ES">
+			<Text>Templo Oscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ILLIDARI_POINT" Language="es_ES">
+			<Text>Alto Illadar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ATA_MAL" Language="es_ES">
+			<Text>Ata'mal</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COILSKAR_CISTERN" Language="es_ES">
+			<Text>Cisterna Cicatriz Espiral</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COILSKAR_POINT" Language="es_ES">
+			<Text>Coilskar Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CRIMSON_WATCH" Language="es_ES">
+			<Text>Atalaya Carmesí</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COILFANG_RESERVOIR" Language="es_ES">
+			<Text>Reserva Colmillo Torcido</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAA_RI" Language="es_ES">
+			<Text>Baa'ri</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOODSCALE_ENCLAVE" Language="es_ES">
+			<Text>Enclave Escamas de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARKCREST_ENCLAVE" Language="es_ES">
+			<Text>Darkcrest Enclave</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DRAGONMAW_FORTRESS" Language="es_ES">
+			<Text>Dragonmaw Fortress</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOOD_FURNACE" Language="es_ES">
+			<Text>Blood Furnace</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHATTERED_HALLS" Language="es_ES">
+			<Text>Shattered Halls</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BONECHEWER" Language="es_ES">
+			<Text>Bonechewer</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WARDENS_CAGE" Language="es_ES">
+			<Text>Warden's Cage</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FEL_HAMMER" Language="es_ES">
+			<Text>Fel Hammer</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UMBRAFEN" Language="es_ES">
+			<Text>Umbrafen</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ILLIDARI_STAND" Language="es_ES">
+			<Text>Illidari Stand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VEILED_DEN" Language="es_ES">
+			<Text>Veiled Den</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VENGEANCE_POINT" Language="es_ES">
+			<Text>Vengeance Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FELBANE_CAMP" Language="es_ES">
+			<Text>Felbane Camp</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ILLIDARI_PERCH" Language="es_ES">
+			<Text>Illidari Perch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHERN_RAMPART" Language="es_ES">
+			<Text>Muralla Sur</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NORTHERN_RAMPART" Language="es_ES">
+			<Text>Muralla Norte</Text>
+		</Replace>
+		<!-- END ILLIDAN-->
+		
+
+		
+	</LocalizedText>
+</GameData>

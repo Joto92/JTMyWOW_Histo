@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LLANE_WRYNN_QUOTE"  Language="en_US">
+			<Text>We will throw this one back, just like the others. And we will hold until the reinforcements come. As long as men with stout hearts are manning the walls and the throne, Stormwind will hold.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORGRIM_DOOMHAMMER_QUOTE"  Language="en_US">
+			<Text>I rule the Horde now, Gul'dan. Not you, not your warlocks. Doomhammer alone. And there will be no more dishonor. No more treachery. No more deceit and lies!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GULDAN_QUOTE"  Language="en_US">
+			<Text>I am Gul'dan... I am darkness incarnate. I will not be denied.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KAELTHAS_SUNSTRIDER_QUOTE"  Language="en_US">
+			<Text>You may not care for your subjects, but I care for mine. I have lost far, far too much in dealing with humans. I stand only for the elves now - for the sin'dorei. The children of the blood.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MALFURION_QUOTE"  Language="en_US">
+			<Text>Standing in the way of nature is heresy. Even when nature's force is a destructive one.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZHARA_QUOTE"  Language="en_US">
+			<Text>To fully prepare for a world of perfection, all the imperfect must be swept away.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TERENAS_MENETHIL_QUOTE"  Language="en_US">
+			<Text>At long last... no king rules forever my son.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAOHAO_QUOTE"  Language="en_US">
+			<Text>I was to have a long life, and a prosperous realm. But I am more than just emperor. I now know what I must do. For I... am the heart of Pandaria.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GROMMASH_HELLSCREAM_AU_QUOTE"  Language="en_US">
+			<Text>We will never be slaves... but we WILL be conquerors!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GULDAN_AU_QUOTE"  Language="en_US">
+			<Text>Why do you fight? You can do nothing here but die.</Text>
+		</Row>
+		<!-- CIV INFO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_ORCISH_HORDE_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms, before Draenor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORCISH_HORDE_SIZE" Language="en_US">
+			<Text>140,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORCISH_HORDE_POPULATION" Language="en_US">
+			<Text>1,000,000 Orcs</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORCISH_HORDE_CAPITAL" Language="en_US">
+			<Text>The Dark Portal in Black Morass</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KALDOREI_EMPIRE_LOCATION" Language="en_US">
+			<Text>Old Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KALDOREI_EMPIRE_SIZE" Language="en_US">
+			<Text>11,059,200 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KALDOREI_EMPIRE_POPULATION" Language="en_US">
+			<Text>35,000,000 Kaldoerei</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KALDOREI_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Zin-Azshari</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LORDAERON_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LORDAERON_SIZE" Language="en_US">
+			<Text>663,355 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LORDAERON_POPULATION" Language="en_US">
+			<Text>2,500,000 Humans</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LORDAERON_CAPITAL" Language="en_US">
+			<Text>Capital City</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MOGU_EMPIRE_LOCATION" Language="en_US">
+			<Text>Pandaria</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MOGU_EMPIRE_SIZE" Language="en_US">
+			<Text>294,912 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MOGU_EMPIRE_POPULATION" Language="en_US">
+			<Text>2,000,000 Mogu</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MOGU_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Throne of Thunder</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PANDAREN_EMPIRE_LOCATION" Language="en_US">
+			<Text>Pandaria</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PANDAREN_EMPIRE_SIZE" Language="en_US">
+			<Text>147,456 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PANDAREN_EMPIRE_POPULATION" Language="en_US">
+			<Text>4,500,000 Pandaren</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PANDAREN_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Dawn's Blossom</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IRON_HORDE_LOCATION" Language="en_US">
+			<Text>Draenor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IRON_HORDE_SIZE" Language="en_US">
+			<Text>115,040 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IRON_HORDE_POPULATION" Language="en_US">
+			<Text>2,500,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IRON_HORDE_CAPITAL" Language="en_US">
+			<Text>Hellfire Citadel</Text>
+		</Row>
+		<!-- CIVS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ORCISH_HORDE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Old Horde or Orcish Horde is a nickname given to the Horde from its beginning prior to the First War until it was defeated by the Alliance of Lordaeron at the end of the Second War. It is used to differentiate it from the New Horde, founded by Thrall after the Old Horde's defeat. Fundamental principles of the Old Horde included demon worship, the consumption of demon blood to become stronger, merciless killing and warfare, and victory in combat to prove one's worth. Their ranks consisted originally only of orcs, soon joined by ogres from Draenor and later by forest trolls and goblins from Azeroth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KALDOREI_EMPIRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Kaldorei Empire was an ancient night elf civilization spanning most of the continent of old Kalimdor, from Lathar'Lazal in the far west to the halls of Uldaman in the east. During a golden age which lasted for millennia, the empire was ruled by the beautiful and intelligent Queen Azshara, one of the most remarkable and powerful rulers ever to hold sway in Azeroth, and in whose honor the kaldorei capital city of Zin-Azshari (meaning "The Glory of Azshara") was named. Incidentally, kaldorei society was highly class-based, with the Highborne ruling from the very top of the social ladder. The empire thrived and prospered uncontested for thousands of years until the beginning of the War of the Ancients, when a civil war erupted between Queen Azshara and her Highborne (who were attempting to summon the demon lord Sargeras into the world) and the Kaldorei Resistance (who wished to prevent this). </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LORDAERON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Kingdom of Lordaeron was a human kingdom primarily located along the northern territories of the homonymous continent. Originally an Arathorian city-state, it was an empire by the time of its fall during the Third War. Ruled by the House of Menethil, the kingdom took part in the birth of the Alliance of Lordaeron shortly before the start of the Second War. The kingdom of Lordaeron spearheaded the Alliance forces during the campaign against the Orcish Horde during the war. Unfortunately, the nation would be almost entirely consumed by the Undead Scourge during the Third War, which occurred fourteen years later.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MOGU_EMPIRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The mogu empire possessed immense size and strength. The mogu built it based on might, in which the weak — other races — were subjugated, and the strong — always mogu — ascended to power. So brutal was their regime that its name is never uttered aloud: pandaren call it either the "Old Kingdom" or "First Dynasty".The mogu empire was a meritocracy, where the previous regime and/or dynasty must be overpowered and executed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PANDAREN_EMPIRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Pandaren Empire was the central government of the pandaren people in their homeland of Pandaria. It did not include lands west of the Serpent's Spine. The last Emperor of Pandaria was Shaohao. After he disappeared, the power in Pandaria shifted to the local level instead.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IRON_HORDE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Iron Horde was formed initially as an union of the uncorrupted orcish clans of a parallel Draenor and created by Garrosh Hellscream and his father, Grommash Hellscream, who was convinced by his unknown son's (who was never born in the alternate universe) knowledge of advanced machinery and the existence of a different world in order to attain orcish supremacy in the universe. The clans were united under a single leader, Grommash Hellscream of the Warsong clan. Bent on the conquest of Draenor and Azeroth, the Iron Horde is an enemy to be feared. Later in the story, the Iron Horde ultimately falls under the effects of the Blood Curse, with Kilrogg Deadeye being the first to drink the blood of Mannoroth. After this, Gul'dan assumes control of the organization, while Grommash is imprisoned.</Text>
+		</Row>
+		<!-- LEADER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANASTERIAN_SUNSTRIDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Anasterian Sunstrider was the high king of Quel'Thalas, a descendant of the royal bloodline established by King Dath'Remar Sunstrider. His reign, which lasted at least 2,800 years, was marked by several conflicts that threatened the continued existence of Quel'Thalas, ending with his death at the hands of the evil Prince Arthas Menethil during the Scourge invasion of Quel'Thalas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LLANE_WRYNN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Llane Wrynn I was the ruler of the Kingdom of Stormwind during the First War. He was the child of King Barathen Wrynn and Lady Varia, and the father of King Varian Wrynn. His grandson King Anduin Wrynn was given his middle name Llane to honor him.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKHAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Blackhand was the chieftain of the mighty Blackrock clan and the first Warchief of the Old Horde (aka Orcish Horde) until he was killed by Orgrim Doomhammer near the end of the First War. He was known throughout Draenor and Azeroth alike as a brutal tyrant.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORGRIM_DOOMHAMMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Orgrim Doomhammer, also known as the Backstabber by loyalists of Gul'dan and Blackhand, was the Warchief of the Old Horde and Chieftain of the Blackrock clan during the end of the First War and the entirety of the Second War. The orcish capital of Orgrimmar, the Horde-controlled town of Hammerfall in the Arathi Highlands, and the flying battleship Orgrim's Hammer patrolling the skies of Icecrown, are named in his honor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GULDAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gul'dan was a former orc shaman from Draenor who became the first orcish warlock as well as the de facto founder of the Orcish Horde. Abandoning the ways of shamanism and betraying both his people and his mentor to the demon lord Kil'jaeden for personal gain and power, Gul'dan was directly responsible for the orcs' fall to demonic enslavement as well as for the Horde's invasion of Azeroth. Tutored by the lord of the Burning Legion, he became the founder and master of the Shadow Council as well as the original creator of the necromantic terrors known as death knights.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KAELTHAS_SUNSTRIDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kael'thas Sunstrider was the Prince of Quel'Thalas, the last of the Sunstrider dynasty, as well as a senior member of the Kirin Tor. After the fall of Quel'Thalas, Kael'thas led what remained of his people, the sin'dorei, in the service of the Alliance. Striving to placate his people's addiction to magic, he later covertly allied with Illidan Stormrage, but betrayed him to the Burning Legion when its master, the demon lord Kil'jaeden, enticed Kael with the promise of salvation for the blood elves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAGNI_BRONZEBEARD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Magni Bronzebeard is the former king of the dwarven kingdom of Khaz Modan, Thane of Ironforge and head of the Bronzebeard clan. During the Second War he defended Ironforge from the orcs and joined the Alliance of Lordaeron. He was a founding member of the Explorers' League led by his brother Brann and forged the Ashbringer hoping it would avenge his brother Muradin, who was believed to have been killed by Arthas Menethil. Magni was turned to diamond during a ritual in the heart of Old Ironforge, sacrificing himself to save Khaz Modan from the Shattering. He was succeeded by the Council of Three Hammers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MALFURION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Malfurion Stormrage was the first mortal druid on Azeroth, and the night elf who initiated the mainstream use of druidism among the kaldorei people ten millennia ago under tutelage of the demigod Cenarius. He is the twin brother of Illidan Stormrage, as well as the loving and beloved husband of the high priestess of Elune, Tyrande Whisperwind. Together, the two have represented the highest leadership of the night elves ever since the fall of Queen Azshara and her Highborne caste.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZHARA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Queen Azshara was the beloved ruler of the Kaldorei Empire ten thousand years ago, and is the current ruler of the monstrous naga. Entrancingly beautiful and beloved by her people, Azshara began a descent into madness when she was corrupted by the Dark Titan Sargeras, master of the Burning Legion. After her defeat at the hands of Malfurion Stormrage, and the Great Sundering that sent her and many of her Highborne into the depths of the sea, Azshara was transformed along with her fellow Highborne into the serpentine naga.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TERENAS_MENETHIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Terenas Menethil II was the last true king of Lordaeron and one of the primary founders of the original Alliance of Lordaeron, the first time in three thousand years the human kingdoms were united since the breaking of Arathor. Ruling for over five decades, including the period of the Second and Third Wars, Terenas acted as a patron of the Alliance and sought to keep it united as political issues had arisen. His death at the hands of his own son Arthas deprived the Alliance of its leadership at a critical moment in history.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEI_SHEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Emperor Lei Shen , also known as the Thunder King, was the first emperor of the mogu and the most powerful warlord in mogu history. After stealing the power of storms from the titan keeper Ra, Lei Shen united the mogu clans into the first great mogu empire. Able to defeat even an August Celestial in combat, none were able to stop his goals of unifying Pandaria. During his rule, Lei Shen made several significant changes and contributions to Pandaria. The construction of the Serpent's Spine, the great barrier separating the dreaded mantid from the rest of the Empire, is often cited as his greatest achievement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAOHAO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Emperor Shaohao was the last emperor of the Pandaren Empire on Pandaria. Shaohao is a significant figure in pandaren culture and history. It was his actions that caused Pandaria's separation from the rest of the world prior to the War of the Ancients, due to the Sha of Pride using Shaohao's power and arrogance to cloak the land in mists. These actions saved Pandaria from the Great Sundering, but doomed it to a future of stagnation. The last emperor then became one with the land, and watched over Pandaria in spirit for over 10,000 years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GROMMASH_HELLSCREAM_AU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Grommash "Grom" Hellscream is the former Warchief of the Iron Horde. A living legend, Grommash is a warrior of great strength and fury. Following the advice of Garrosh Hellscream, his disguised son from the prime timeline, Grommash refused to accept the Blood Pact and serve the Burning Legion. With Garrosh's knowledge of war machines and his clan's own power, he rallied the orcs of Draenor to create the Iron Horde, setting his sights on invading and conquering Azeroth. Following a series of crushing defeats, however, Gul'dan claimed control of the Iron Horde, corrupting it in service of the Legion and capturing Grommash. After being freed by commanders of the Alliance and the Horde, the former Warchief aided in the battle against the demon lord Archimonde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GULDAN_AU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gul'dan was an orc who was cast out of his clan for his physical weakness, and agreed to a secret alliance with the Burning Legion in exchange to wield fel magic. The first warlock, he seeks to spread his influence — and the power of the Legion — to all worlds. While the rest of the orcs did not drink the blood of Mannoroth, Gul'dan and his followers, the Shadow Council have. Indebted to a demonic lord, Gul'dan is one of a handful of fel-corrupted orcs on Draenor,  his visage twisted balefully by demonic communion. He led the Shadow Council in his bid to deliver Draenor into the hands of the Burning Legion.</Text>
+		</Row>
+		<!-- CITY STATES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GORIAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Gorian Empire was the nation-state of the ogres encompassing various holdings on Draenor. On alternate Draenor, it was notable for being one of the few empires on the world, but lost its former dominance after the rise of the Iron Horde, which forced Imperator Mar'gok to align himself with the orcs to ensure his empire's continued survival. He would have, however, turned himself against the orcs if the situation was favorable.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PINCHWHISTLE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Pinchwhistle Gearworks is a neutral goblin settlement on the eastern coast of Spires of Arak on Draenor, constructed after the inhabitants' previous town Pinchwhistle Point to the south was infested by spores from the local fungi. The new town also experiences problems with the encroaching fungi from the Sporemist Shallows.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SKETTIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Skettis is a city of the Arakkoa Outcasts in the northern hills of the Spires of Arak, near the entrance to Talador, and stretches east all the way to the border of Shadowmoon Valley. It was built among Apexis ruins six hundred years before the opening of the Dark Portal by the greatest king of the arakkoa and the first of the Arakkoa Outcasts, Terokk, alongside his Talonpriests and under guidance from Anzu himself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAUGHING_SKULL_CLAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Laughing Skull clan was an orc clan that dwelled in southeastern Gorgrond. Maniacal and bloodthirsty, the Laughing Skulls were considered to be mad by other clans, and they later had a reputation for treachery and deceit. Known for their violent and bloodthirsty nature, these orcs take great pride in their clan identity and have therefore refused to join the Iron Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FROSTWOLF_CLAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Frostwolf clan is an orc clan that originally dwelled in the southwestern parts of Frostfire Ridge.Named for their close kinship with Frostfire's native frost wolves, the clan placed great value in the noble ideals of family and community and sought to live in harmony with the land. During the formation of the Old Horde, the Frostwolf chieftain Durotan was one of the few to speak out against the growing corruption among the orcs and refused to participate in the drinking of the Blood of Mannoroth. During the First War, the warlock Gul'dan exiled the Frostwolves, who journeyed north to eventually find refuge in the frigid Alterac Mountains and eke out an existence in Alterac Valley.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHADOWMOON_CLAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Shadowmoon clan was a relatively peaceful and highly spiritual and shamanistic orcish clan that dwelled in Shadowmoon Valley. Their last known chieftain, Ner'zhul, was deceived by the Burning Legion into forming the first Horde due to the manipulations of the warlock Gul'dan and his master, the demon lord Kil'jaeden. Following the Horde's defeat during the Second War, the Shadowmoon came to be the most powerful of the orcish clans remaining on Draenor when Ner'zhul rallied the scattered clans under his own banner. After Ner'zhul inadvertently ripped Draenor apart, many of the remaining Shadowmoon became fel orcs and entered the service of the Fel Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GARADAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Garadar is the main village of the Mag'har orcs, located in northern Nagrand. The village was originally built around 10 years before the First War in order to quarantine victims of the red pox, who had contracted the plague at a recent Kosh'harg festival. Ner'zhul feared that the plague bearers would spread the disease to new victims and urged them to remain in Nagrand. One of the afflicted was the chieftain of the Frostwolf clan, Garad. While the thought of not returning home filled him with sorrow, he agreed to take charge of the afflicted, sending his son and only remaining heir Durotan home to look after the Frostwolves. In a matter of weeks, the red pox consumed Garad. Though he had led his fellow victims for only a short time, he had earned their eternal respect, and the village was named Garadar in his honor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHATTRATH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Shattrath City is a major hub in Outland situated in the northwestern portion of Terokkar Forest. It is a capital-sized sanctuary city populated by ancient heroes and naaru. It is the first capital available to both sides.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AREA52_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Area 52 is a neutral goblin-run town found on the southwestern most island of Netherstorm. It is a settlement structured much like Gadgetzan and Everlook, with a short wall surrounding a small hovel of buildings. The goblins are seen building a rocket ship to journey into the Twisting Nether named the X-52 Nether-Rocket.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_STORMSPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Stormspire is a neutral Consortium-run town located in Netherstorm. It is located beneath the interconnected eco-domes of Sutheron and Skyperch. Lush jungle vegetation grows within the settlement creating a sharp contrast with the purple, arcane-channeled sky. The town itself is of draenei architecture, however there are no draenei to be seen here now. Nexus-Prince Haramad, leader of the Consortium, is found in his chambers at the uppermost part of the Spire. He oversees the town through a holographic image.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

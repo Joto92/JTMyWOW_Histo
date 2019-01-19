@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_BLOOD_ELVES</CivilizationType>
+			<LeaderType>LEADER_ANASTERIAN_SUNSTRIDER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BLOOD_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ANASTERIAN_SUNSTRIDER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ANASTERIAN_SUNSTRIDER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ANASTERIAN_SUNSTRIDER</LeaderAbilityIcon>
+			<Portrait>LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_STORMWIND</CivilizationType>
+			<LeaderType>LEADER_LLANE_WRYNN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_STORMWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_STORMWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LLANE_WRYNN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LLANE_WRYNN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GRAND_ALLIANCE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GRAND_ALLIANCE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_STORMWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEFENDER_OF_AZEROTH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEFENDER_OF_AZEROTH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LLANE_WRYNN</LeaderAbilityIcon>
+			<Portrait>LEADER_LLANE_WRYNN_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ORCISH_HORDE</CivilizationType>
+			<LeaderType>LEADER_BLACKHAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORCISH_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BLACKHAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BLACKHAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BLOODY_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BLOODY_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DESTROYER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DESTROYER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BLACKHAND</LeaderAbilityIcon>
+			<Portrait>LEADER_BLACKHAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ORCISH_HORDE</CivilizationType>
+			<LeaderType>LEADER_ORGRIM_DOOMHAMMER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORCISH_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ORGRIM_DOOMHAMMER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ORGRIM_DOOMHAMMER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BLOODY_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BLOODY_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DOOMHAMMER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DOOMHAMMER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ORGRIM_DOOMHAMMER</LeaderAbilityIcon>
+			<Portrait>LEADER_ORGRIM_DOOMHAMMER_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ORCISH_HORDE</CivilizationType>
+			<LeaderType>LEADER_GULDAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORCISH_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GULDAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GULDAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BLOODY_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BLOODY_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DARKNESS_INCARNATE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DARKNESS_INCARNATE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GULDAN</LeaderAbilityIcon>
+			<Portrait>LEADER_GULDAN_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_BLOOD_ELVES</CivilizationType>
+			<LeaderType>LEADER_KAELTHAS_SUNSTRIDER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BLOOD_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_KAELTHAS_SUNSTRIDER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_KAELTHAS_SUNSTRIDER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_SUN_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_SUN_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_KAELTHAS_SUNSTRIDER</LeaderAbilityIcon>
+			<Portrait>LEADER_KAELTHAS_SUNSTRIDER_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_IRONFORGE</CivilizationType>
+			<LeaderType>LEADER_MAGNI_BRONZEBEARD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_IRONFORGE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_IRONFORGE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAGNI_BRONZEBEARD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAGNI_BRONZEBEARD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MASTERS_OF_BLACKSMITHING_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MASTERS_OF_BLACKSMITHING_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_IRONFORGE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DIAMOND_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DIAMOND_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAGNI_BRONZEBEARD</LeaderAbilityIcon>
+			<Portrait>LEADER_MAGNI_BRONZEBEARD_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_NIGHT_ELVES</CivilizationType>
+			<LeaderType>LEADER_MALFURION</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NIGHT_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NIGHT_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MALFURION_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MALFURION</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CHILDREN_OF_STARS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CHILDREN_OF_STARS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NIGHT_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SHANDO_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SHANDO_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MALFURION</LeaderAbilityIcon>
+			<Portrait>LEADER_MALFURION_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KALDOREI_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_AZHARA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KALDOREI_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KALDOREI_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AZHARA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AZHARA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_QUEL_DOREI_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_QUEL_DOREI_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KALDOREI_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LIGHT_OF_LIGHTS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LIGHT_OF_LIGHTS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AZHARA</LeaderAbilityIcon>
+			<Portrait>LEADER_AZHARA_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_LORDAERON</CivilizationType>
+			<LeaderType>LEADER_TERENAS_MENETHIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LORDAERON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_LORDAERON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TERENAS_MENETHIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TERENAS_MENETHIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ALLIANCE_OF_LORDAERON_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ALLIANCE_OF_LORDAERON_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_LORDAERON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_TRUE_KING_LORDAERON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_TRUE_KING_LORDAERON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TERENAS_MENETHIL</LeaderAbilityIcon>
+			<Portrait>LEADER_TERENAS_MENETHIL_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_MOGU_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_LEI_SHEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MOGU_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MOGU_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEI_SHEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEI_SHEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TITAN_FORGED_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TITAN_FORGED_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MOGU_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THUNDER_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THUNDER_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEI_SHEN</LeaderAbilityIcon>
+			<Portrait>LEADER_LEI_SHEN_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_PANDAREN_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_SHAOHAO</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_PANDAREN_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_PANDAREN_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SHAOHAO_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SHAOHAO</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MISTS_OF_PANDARIA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MISTS_OF_PANDARIA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_PANDAREN_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HEART_OF_PANDARIA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HEART_OF_PANDARIA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SHAOHAO</LeaderAbilityIcon>
+			<Portrait>LEADER_SHAOHAO_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_IRON_HORDE</CivilizationType>
+			<LeaderType>LEADER_GROMMASH_HELLSCREAM_AU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_IRON_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GROMMASH_HELLSCREAM_AU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GROMMASH_HELLSCREAM_AU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IRONMARCH_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IRONMARCH_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_IRON_WILL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_IRON_WILL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GROMMASH_HELLSCREAM_AU</LeaderAbilityIcon>
+			<Portrait>LEADER_GROMMASH_HELLSCREAM_AU_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_IRON_HORDE</CivilizationType>
+			<LeaderType>LEADER_GULDAN_AU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_IRON_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GULDAN_AU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GULDAN_AU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IRONMARCH_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IRONMARCH_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_FIRST_WARLOCK_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_FIRST_WARLOCK_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GULDAN_AU</LeaderAbilityIcon>
+			<Portrait>LEADER_GULDAN_AU_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ILLIDARI</CivilizationType>
+			<LeaderType>LEADER_ILLIDAN_STORMRAGE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ILLIDARI_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ILLIDARI</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ILLIDAN_STORMRAGE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ILLIDAN_STORMRAGE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ARMIES_OF_LEGIONFALL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ARMIES_OF_LEGIONFALL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ILLIDARI</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_OF_OUTLAND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_OF_OUTLAND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ILLIDAN_STORMRAGE</LeaderAbilityIcon>
+			<Portrait>LEADER_ILLIDAN_STORMRAGE_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_BLOOD_ELVES</CivilizationType>
+			<LeaderType>LEADER_ANASTERIAN_SUNSTRIDER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BLOOD_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ANASTERIAN_SUNSTRIDER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ANASTERIAN_SUNSTRIDER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ANASTERIAN_SUNSTRIDER</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_STORMWIND</CivilizationType>
+			<LeaderType>LEADER_LLANE_WRYNN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_STORMWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_STORMWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LLANE_WRYNN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LLANE_WRYNN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GRAND_ALLIANCE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GRAND_ALLIANCE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_STORMWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEFENDER_OF_AZEROTH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEFENDER_OF_AZEROTH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LLANE_WRYNN</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ORCISH_HORDE</CivilizationType>
+			<LeaderType>LEADER_BLACKHAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORCISH_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BLACKHAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BLACKHAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BLOODY_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BLOODY_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DESTROYER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DESTROYER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BLACKHAND</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ORCISH_HORDE</CivilizationType>
+			<LeaderType>LEADER_ORGRIM_DOOMHAMMER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORCISH_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ORGRIM_DOOMHAMMER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ORGRIM_DOOMHAMMER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BLOODY_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BLOODY_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DOOMHAMMER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DOOMHAMMER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ORGRIM_DOOMHAMMER</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ORCISH_HORDE</CivilizationType>
+			<LeaderType>LEADER_GULDAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORCISH_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GULDAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GULDAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BLOODY_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BLOODY_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORCISH_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DARKNESS_INCARNATE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DARKNESS_INCARNATE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GULDAN</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_BLOOD_ELVES</CivilizationType>
+			<LeaderType>LEADER_KAELTHAS_SUNSTRIDER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BLOOD_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_KAELTHAS_SUNSTRIDER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_KAELTHAS_SUNSTRIDER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BLOOD_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_SUN_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_SUN_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_KAELTHAS_SUNSTRIDER</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_IRONFORGE</CivilizationType>
+			<LeaderType>LEADER_MAGNI_BRONZEBEARD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_IRONFORGE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_IRONFORGE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAGNI_BRONZEBEARD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAGNI_BRONZEBEARD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MASTERS_OF_BLACKSMITHING_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MASTERS_OF_BLACKSMITHING_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_IRONFORGE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DIAMOND_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DIAMOND_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAGNI_BRONZEBEARD</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_NIGHT_ELVES</CivilizationType>
+			<LeaderType>LEADER_MALFURION</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NIGHT_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NIGHT_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MALFURION_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MALFURION</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CHILDREN_OF_STARS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CHILDREN_OF_STARS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NIGHT_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SHANDO_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SHANDO_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MALFURION</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KALDOREI_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_AZHARA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KALDOREI_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KALDOREI_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AZHARA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AZHARA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_QUEL_DOREI_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_QUEL_DOREI_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KALDOREI_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LIGHT_OF_LIGHTS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LIGHT_OF_LIGHTS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AZHARA</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_LORDAERON</CivilizationType>
+			<LeaderType>LEADER_TERENAS_MENETHIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LORDAERON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_LORDAERON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TERENAS_MENETHIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TERENAS_MENETHIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ALLIANCE_OF_LORDAERON_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ALLIANCE_OF_LORDAERON_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_LORDAERON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_TRUE_KING_LORDAERON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_TRUE_KING_LORDAERON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TERENAS_MENETHIL</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_MOGU_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_LEI_SHEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MOGU_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MOGU_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEI_SHEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEI_SHEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TITAN_FORGED_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TITAN_FORGED_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MOGU_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THUNDER_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THUNDER_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEI_SHEN</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_PANDAREN_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_SHAOHAO</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_PANDAREN_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_PANDAREN_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SHAOHAO_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SHAOHAO</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MISTS_OF_PANDARIA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MISTS_OF_PANDARIA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_PANDAREN_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HEART_OF_PANDARIA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HEART_OF_PANDARIA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SHAOHAO</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_IRON_HORDE</CivilizationType>
+			<LeaderType>LEADER_GROMMASH_HELLSCREAM_AU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_IRON_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GROMMASH_HELLSCREAM_AU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GROMMASH_HELLSCREAM_AU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IRONMARCH_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IRONMARCH_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_IRON_WILL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_IRON_WILL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GROMMASH_HELLSCREAM_AU</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_IRON_HORDE</CivilizationType>
+			<LeaderType>LEADER_GULDAN_AU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_IRON_HORDE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GULDAN_AU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GULDAN_AU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IRONMARCH_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IRONMARCH_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_IRON_HORDE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_FIRST_WARLOCK_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_FIRST_WARLOCK_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GULDAN_AU</LeaderAbilityIcon>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ILLIDARI</CivilizationType>
+			<LeaderType>LEADER_ILLIDAN_STORMRAGE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ILLIDARI_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ILLIDARI</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ILLIDAN_STORMRAGE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ILLIDAN_STORMRAGE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ARMIES_OF_LEGIONFALL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ARMIES_OF_LEGIONFALL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ILLIDARI</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_OF_OUTLAND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_OF_OUTLAND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ILLIDAN_STORMRAGE</LeaderAbilityIcon>
+			<Portrait>LEADER_ILLIDAN_STORMRAGE_NEUTRAL</Portrait>
+			<PortraitBackground>WOW_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_SPELL_BREAKER" Icon="ICON_UNIT_SPELL_BREAKER" Name="LOC_UNIT_SPELL_BREAKER_NAME" Description="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ELF_MAGE" Icon="ICON_UNIT_ELF_MAGE" Name="LOC_UNIT_ELF_MAGE_NAME" Description="LOC_UNIT_ELF_MAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ELVEN_RANGER" Icon="ICON_UNIT_ELVEN_RANGER" Name="LOC_UNIT_ELVEN_RANGER_NAME" Description="LOC_UNIT_ELVEN_RANGER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_DRAGONHAWK_RIDER" Icon="ICON_UNIT_DRAGONHAWK_RIDER" Name="LOC_UNIT_DRAGONHAWK_RIDER_NAME" Description="LOC_UNIT_DRAGONHAWK_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_BLOOD_KNIGHT" Icon="ICON_UNIT_BLOOD_KNIGHT" Name="LOC_UNIT_BLOOD_KNIGHT_NAME" Description="LOC_UNIT_BLOOD_KNIGHT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ARCANE_GOLEM" Icon="ICON_UNIT_ARCANE_GOLEM" Name="LOC_UNIT_ARCANE_GOLEM_NAME" Description="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="IMPROVEMENT_ARCANE_SANCTUM" Icon="ICON_IMPROVEMENT_ARCANE_SANCTUM" Name="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Description="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="BUILDING_DRAGONHAWK_NEST" Icon="ICON_BUILDING_DRAGONHAWK_NEST" Name="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Description="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" SortIndex="110"/>
+		
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_7HLEGION" Icon="ICON_UNIT_7HLEGION" Name="LOC_UNIT_7HLEGION_NAME" Description="LOC_UNIT_7HLEGION_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_GRYPHON_RIDER" Icon="ICON_UNIT_GRYPHON_RIDER" Name="LOC_UNIT_GRYPHON_RIDER_NAME" Description="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_HUMAN_GUNMAN" Icon="ICON_UNIT_HUMAN_GUNMAN" Name="LOC_UNIT_HUMAN_GUNMAN_NAME" Description="LOC_UNIT_HUMAN_GUNMAN_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_BROTHERHOOD_HORSE" Icon="ICON_UNIT_BROTHERHOOD_HORSE" Name="LOC_UNIT_BROTHERHOOD_HORSE_NAME" Description="LOC_UNIT_BROTHERHOOD_HORSE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_ALLIANCE_ICEBREAKER" Icon="ICON_UNIT_ALLIANCE_ICEBREAKER" Name="LOC_UNIT_ALLIANCE_ICEBREAKER_NAME" Description="LOC_UNIT_ALLIANCE_ICEBREAKER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_HUMAN_MAGE" Icon="ICON_UNIT_HUMAN_MAGE" Name="LOC_UNIT_HUMAN_MAGE_NAME" Description="LOC_UNIT_HUMAN_MAGE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="BUILDING_ALTAR_OF_KINGS" Icon="ICON_BUILDING_ALTAR_OF_KINGS" Name="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Description="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="BUILDING_GRYPHON_NEST" Icon="ICON_BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" SortIndex="90"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_ORC_DESTROYER" Icon="ICON_UNIT_ORC_DESTROYER" Name="LOC_UNIT_ORC_DESTROYER_NAME" Description="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_ORC_DESTROYER" Icon="ICON_UNIT_ORC_DESTROYER" Name="LOC_UNIT_ORC_DESTROYER_NAME" Description="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_ORC_DESTROYER" Icon="ICON_UNIT_ORC_DESTROYER" Name="LOC_UNIT_ORC_DESTROYER_NAME" Description="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_FEL_ORC" Icon="ICON_UNIT_FEL_ORC" Name="LOC_UNIT_FEL_ORC_NAME" Description="LOC_UNIT_FEL_ORC_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="120"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="130"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_SPELL_BREAKER" Icon="ICON_UNIT_SPELL_BREAKER" Name="LOC_UNIT_SPELL_BREAKER_NAME" Description="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ELF_MAGE" Icon="ICON_UNIT_ELF_MAGE" Name="LOC_UNIT_ELF_MAGE_NAME" Description="LOC_UNIT_ELF_MAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ELVEN_RANGER" Icon="ICON_UNIT_ELVEN_RANGER" Name="LOC_UNIT_ELVEN_RANGER_NAME" Description="LOC_UNIT_ELVEN_RANGER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_DRAGONHAWK_RIDER" Icon="ICON_UNIT_DRAGONHAWK_RIDER" Name="LOC_UNIT_DRAGONHAWK_RIDER_NAME" Description="LOC_UNIT_DRAGONHAWK_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_BLOOD_KNIGHT" Icon="ICON_UNIT_BLOOD_KNIGHT" Name="LOC_UNIT_BLOOD_KNIGHT_NAME" Description="LOC_UNIT_BLOOD_KNIGHT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ARCANE_GOLEM" Icon="ICON_UNIT_ARCANE_GOLEM" Name="LOC_UNIT_ARCANE_GOLEM_NAME" Description="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="IMPROVEMENT_ARCANE_SANCTUM" Icon="ICON_IMPROVEMENT_ARCANE_SANCTUM" Name="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Description="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="IMPROVEMENT_MANAFORGE" Icon="ICON_IMPROVEMENT_MANAFORGE" Name="LOC_IMPROVEMENT_MANAFORGE_NAME" Description="LOC_IMPROVEMENT_MANAFORGE_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="BUILDING_DRAGONHAWK_NEST" Icon="ICON_BUILDING_DRAGONHAWK_NEST" Name="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Description="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_DWARF_RIFLEMAN" Icon="ICON_UNIT_DWARF_RIFLEMAN" Name="LOC_UNIT_DWARF_RIFLEMAN_NAME" Description="LOC_UNIT_DWARF_RIFLEMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_STEAM_TANK" Icon="ICON_UNIT_STEAM_TANK" Name="LOC_UNIT_STEAM_TANK_NAME" Description="LOC_UNIT_STEAM_TANK_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_RAM_RIDER_LIGHT" Icon="ICON_UNIT_RAM_RIDER_LIGHT" Name="LOC_UNIT_RAM_RIDER_LIGHT_NAME" Description="LOC_UNIT_RAM_RIDER_LIGHT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_RAM_RIDER_HEAVY" Icon="ICON_UNIT_RAM_RIDER_HEAVY" Name="LOC_UNIT_RAM_RIDER_HEAVY_NAME" Description="LOC_UNIT_RAM_RIDER_HEAVY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_GYROCOPTER" Icon="ICON_UNIT_GYROCOPTER" Name="LOC_UNIT_GYROCOPTER_NAME" Description="LOC_UNIT_GYROCOPTER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_GRYPHON_RIDER" Icon="ICON_UNIT_GRYPHON_RIDER" Name="LOC_UNIT_GRYPHON_RIDER_NAME" Description="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_IRON_GUARDIAN" Icon="ICON_UNIT_IRON_GUARDIAN" Name="LOC_UNIT_IRON_GUARDIAN_NAME" Description="LOC_UNIT_IRON_GUARDIAN_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="BUILDING_DWARF_BUNKER" Icon="ICON_BUILDING_DWARF_BUNKER" Name="LOC_BUILDING_DWARF_BUNKER_NAME" Description="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="BUILDING_GRYPHON_NEST" Icon="ICON_BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" SortIndex="100"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SENTINEL" Icon="ICON_UNIT_SENTINEL" Name="LOC_UNIT_SENTINEL_NAME" Description="LOC_UNIT_SENTINEL_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_NELF_WARDEN" Icon="ICON_UNIT_NELF_WARDEN" Name="LOC_UNIT_NELF_WARDEN_NAME" Description="LOC_UNIT_NELF_WARDEN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SABER_RIDER_LIGHT" Icon="ICON_UNIT_SABER_RIDER_LIGHT" Name="LOC_UNIT_SABER_RIDER_LIGHT_NAME" Description="LOC_UNIT_SABER_RIDER_LIGHT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SABER_RIDER_HEAVY" Icon="ICON_UNIT_SABER_RIDER_HEAVY" Name="LOC_UNIT_SABER_RIDER_HEAVY_NAME" Description="LOC_UNIT_SABER_RIDER_HEAVY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_HIPPOGRYPH_RIDER" Icon="ICON_UNIT_HIPPOGRYPH_RIDER" Name="LOC_UNIT_HIPPOGRYPH_RIDER_NAME" Description="LOC_UNIT_HIPPOGRYPH_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SENTINEL_WARRIOR" Icon="ICON_UNIT_SENTINEL_WARRIOR" Name="LOC_UNIT_SENTINEL_WARRIOR_NAME" Description="LOC_UNIT_SENTINEL_WARRIOR_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_PRIESTESS_MOON" Icon="ICON_UNIT_PRIESTESS_MOON" Name="LOC_UNIT_PRIESTESS_MOON_NAME" Description="LOC_UNIT_PRIESTESS_MOON_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_ANCIENT_PROTECTOR" Icon="ICON_UNIT_ANCIENT_PROTECTOR" Name="LOC_UNIT_ANCIENT_PROTECTOR_NAME" Description="LOC_UNIT_ANCIENT_PROTECTOR_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="BUILDING_TEMPLE_OF_MOON" Icon="ICON_BUILDING_TEMPLE_OF_MOON" Name="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Description="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_HIGHBORNE_ARCANIST" Icon="ICON_UNIT_HIGHBORNE_ARCANIST" Name="LOC_UNIT_HIGHBORNE_ARCANIST_NAME" Description="LOC_UNIT_HIGHBORNE_ARCANIST_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_ARCANE_GOLEM" Icon="ICON_UNIT_ARCANE_GOLEM" Name="LOC_UNIT_ARCANE_GOLEM_NAME" Description="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_SABER_RIDER_LIGHT" Icon="ICON_UNIT_SABER_RIDER_LIGHT" Name="LOC_UNIT_SABER_RIDER_LIGHT_NAME" Description="LOC_UNIT_SABER_RIDER_LIGHT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_SABER_RIDER_HEAVY" Icon="ICON_UNIT_SABER_RIDER_HEAVY" Name="LOC_UNIT_SABER_RIDER_HEAVY_NAME" Description="LOC_UNIT_SABER_RIDER_HEAVY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_HIPPOGRYPH_RIDER" Icon="ICON_UNIT_HIPPOGRYPH_RIDER" Name="LOC_UNIT_HIPPOGRYPH_RIDER_NAME" Description="LOC_UNIT_HIPPOGRYPH_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_SENTINEL_WARRIOR" Icon="ICON_UNIT_SENTINEL_WARRIOR" Name="LOC_UNIT_SENTINEL_WARRIOR_NAME" Description="LOC_UNIT_SENTINEL_WARRIOR_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_PRIESTESS_MOON" Icon="ICON_UNIT_PRIESTESS_MOON" Name="LOC_UNIT_PRIESTESS_MOON_NAME" Description="LOC_UNIT_PRIESTESS_MOON_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_ANCIENT_PROTECTOR" Icon="ICON_UNIT_ANCIENT_PROTECTOR" Name="LOC_UNIT_ANCIENT_PROTECTOR_NAME" Description="LOC_UNIT_ANCIENT_PROTECTOR_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="BUILDING_TEMPLE_OF_MOON" Icon="ICON_BUILDING_TEMPLE_OF_MOON" Name="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Description="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" SortIndex="110"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_GRYPHON_RIDER" Icon="ICON_UNIT_GRYPHON_RIDER" Name="LOC_UNIT_GRYPHON_RIDER_NAME" Description="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_HUMAN_GUNMAN" Icon="ICON_UNIT_HUMAN_GUNMAN" Name="LOC_UNIT_HUMAN_GUNMAN_NAME" Description="LOC_UNIT_HUMAN_GUNMAN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_HAMMER_KNIGHT" Icon="ICON_UNIT_HAMMER_KNIGHT" Name="LOC_UNIT_HAMMER_KNIGHT_NAME" Description="LOC_UNIT_HAMMER_KNIGHT_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_ALLIANCE_ICEBREAKER" Icon="ICON_UNIT_ALLIANCE_ICEBREAKER" Name="LOC_UNIT_ALLIANCE_ICEBREAKER_NAME" Description="LOC_UNIT_ALLIANCE_ICEBREAKER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_HUMAN_MAGE" Icon="ICON_UNIT_HUMAN_MAGE" Name="LOC_UNIT_HUMAN_MAGE_NAME" Description="LOC_UNIT_HUMAN_MAGE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="BUILDING_ALTAR_OF_KINGS" Icon="ICON_BUILDING_ALTAR_OF_KINGS" Name="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Description="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="BUILDING_GRYPHON_NEST" Icon="ICON_BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_EMPEROR_SHIELD" Icon="ICON_UNIT_EMPEROR_SHIELD" Name="LOC_UNIT_EMPEROR_SHIELD_NAME" Description="LOC_UNIT_EMPEROR_SHIELD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_SAUROK" Icon="ICON_UNIT_SAUROK" Name="LOC_UNIT_SAUROK_NAME" Description="LOC_UNIT_SAUROK_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_STONEBORN" Icon="ICON_UNIT_STONEBORN" Name="LOC_UNIT_STONEBORN_NAME" Description="LOC_UNIT_STONEBORN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_SPIRITBINDER" Icon="ICON_UNIT_SPIRITBINDER" Name="LOC_UNIT_SPIRITBINDER_NAME" Description="LOC_UNIT_SPIRITBINDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_ENORMOUS_QUILEN" Icon="ICON_UNIT_ENORMOUS_QUILEN" Name="LOC_UNIT_ENORMOUS_QUILEN_NAME" Description="LOC_UNIT_ENORMOUS_QUILEN_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_BRONZE_QUILEN" Icon="ICON_UNIT_BRONZE_QUILEN" Name="LOC_UNIT_BRONZE_QUILEN_NAME" Description="LOC_UNIT_BRONZE_QUILEN_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_FLYING_QUILEN" Icon="ICON_UNIT_FLYING_QUILEN" Name="LOC_UNIT_FLYING_QUILEN_NAME" Description="LOC_UNIT_FLYING_QUILEN_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_WARDANCERS" Icon="ICON_UNIT_WARDANCERS" Name="LOC_UNIT_WARDANCERS_NAME" Description="LOC_UNIT_WARDANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_BREWMASTER" Icon="ICON_UNIT_BREWMASTER" Name="LOC_UNIT_BREWMASTER_NAME" Description="LOC_UNIT_BREWMASTER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_TIGER_RIDER" Icon="ICON_UNIT_TIGER_RIDER" Name="LOC_UNIT_TIGER_RIDER_NAME" Description="LOC_UNIT_TIGER_RIDER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_CRANE_RIDER" Icon="ICON_UNIT_CRANE_RIDER" Name="LOC_UNIT_CRANE_RIDER_NAME" Description="LOC_UNIT_CRANE_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_KITE" Icon="ICON_UNIT_KITE" Name="LOC_UNIT_KITE_NAME" Description="LOC_UNIT_KITE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_PANDAREN_MONK" Icon="ICON_UNIT_PANDAREN_MONK" Name="LOC_UNIT_PANDAREN_MONK_NAME" Description="LOC_UNIT_PANDAREN_MONK_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="450"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_DREADNAUGHT" Icon="ICON_UNIT_DREADNAUGHT" Name="LOC_UNIT_DREADNAUGHT_NAME" Description="LOC_UNIT_DREADNAUGHT_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="110"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="450"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_DREADNAUGHT" Icon="ICON_UNIT_DREADNAUGHT" Name="LOC_UNIT_DREADNAUGHT_NAME" Description="LOC_UNIT_DREADNAUGHT_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_FEL_ORC" Icon="ICON_UNIT_FEL_ORC" Name="LOC_UNIT_FEL_ORC_NAME" Description="LOC_UNIT_FEL_ORC_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_ORC_WARLOCK" Icon="ICON_UNIT_ORC_WARLOCK" Name="LOC_UNIT_ORC_WARLOCK_NAME" Description="LOC_UNIT_ORC_WARLOCK_DESCRIPTION" SortIndex="120"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="130"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="140"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_FELGUARD" Icon="ICON_UNIT_FELGUARD" Name="LOC_UNIT_FELGUARD_NAME" Description="LOC_UNIT_FELGUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_FEL_ORC" Icon="ICON_UNIT_FEL_ORC" Name="LOC_UNIT_FEL_ORC_NAME" Description="LOC_UNIT_FEL_ORC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_DEMON_HUNTER" Icon="ICON_UNIT_DEMON_HUNTER" Name="LOC_UNIT_DEMON_HUNTER_NAME" Description="LOC_UNIT_DEMON_HUNTER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_NAGA_MYRMIDON" Icon="ICON_UNIT_NAGA_MYRMIDON" Name="LOC_UNIT_NAGA_MYRMIDON_NAME" Description="LOC_UNIT_NAGA_MYRMIDON_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_NAGA_SIREN" Icon="ICON_UNIT_NAGA_SIREN" Name="LOC_UNIT_NAGA_SIREN_NAME" Description="LOC_UNIT_NAGA_SIREN_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_ELF_MAGE" Icon="ICON_UNIT_ELF_MAGE" Name="LOC_UNIT_ELF_MAGE_NAME" Description="LOC_UNIT_ELF_MAGE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_COMMAND_SHIP" Icon="ICON_UNIT_COMMAND_SHIP" Name="LOC_UNIT_COMMAND_SHIP_NAME" Description="LOC_UNIT_COMMAND_SHIP_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_NETHERWING_DRAGONFLIGHT" Icon="ICON_UNIT_NETHERWING_DRAGONFLIGHT" Name="LOC_UNIT_NETHERWING_DRAGONFLIGHT_NAME" Description="LOC_UNIT_NETHERWING_DRAGONFLIGHT_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="BUILDING_DRAGON_NEST" Icon="ICON_BUILDING_DRAGON_NEST" Name="LOC_BUILDING_DRAGON_NEST_NAME" Description="LOC_BUILDING_DRAGON_NEST_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="IMPROVEMENT_STEAM_PUMP" Icon="ICON_IMPROVEMENT_STEAM_PUMP" Name="LOC_IMPROVEMENT_STEAM_PUMP_NAME" Description="LOC_IMPROVEMENT_STEAM_PUMP_DESCRIPTION" SortIndex="120"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_SPELL_BREAKER" Icon="ICON_UNIT_SPELL_BREAKER" Name="LOC_UNIT_SPELL_BREAKER_NAME" Description="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ELF_MAGE" Icon="ICON_UNIT_ELF_MAGE" Name="LOC_UNIT_ELF_MAGE_NAME" Description="LOC_UNIT_ELF_MAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ELVEN_RANGER" Icon="ICON_UNIT_ELVEN_RANGER" Name="LOC_UNIT_ELVEN_RANGER_NAME" Description="LOC_UNIT_ELVEN_RANGER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_DRAGONHAWK_RIDER" Icon="ICON_UNIT_DRAGONHAWK_RIDER" Name="LOC_UNIT_DRAGONHAWK_RIDER_NAME" Description="LOC_UNIT_DRAGONHAWK_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_BLOOD_KNIGHT" Icon="ICON_UNIT_BLOOD_KNIGHT" Name="LOC_UNIT_BLOOD_KNIGHT_NAME" Description="LOC_UNIT_BLOOD_KNIGHT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="UNIT_ARCANE_GOLEM" Icon="ICON_UNIT_ARCANE_GOLEM" Name="LOC_UNIT_ARCANE_GOLEM_NAME" Description="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="IMPROVEMENT_ARCANE_SANCTUM" Icon="ICON_IMPROVEMENT_ARCANE_SANCTUM" Name="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Description="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" Type="BUILDING_DRAGONHAWK_NEST" Icon="ICON_BUILDING_DRAGONHAWK_NEST" Name="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Description="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" SortIndex="110"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_7HLEGION" Icon="ICON_UNIT_7HLEGION" Name="LOC_UNIT_7HLEGION_NAME" Description="LOC_UNIT_7HLEGION_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_GRYPHON_RIDER" Icon="ICON_UNIT_GRYPHON_RIDER" Name="LOC_UNIT_GRYPHON_RIDER_NAME" Description="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_HUMAN_GUNMAN" Icon="ICON_UNIT_HUMAN_GUNMAN" Name="LOC_UNIT_HUMAN_GUNMAN_NAME" Description="LOC_UNIT_HUMAN_GUNMAN_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_BROTHERHOOD_HORSE" Icon="ICON_UNIT_BROTHERHOOD_HORSE" Name="LOC_UNIT_BROTHERHOOD_HORSE_NAME" Description="LOC_UNIT_BROTHERHOOD_HORSE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_ALLIANCE_ICEBREAKER" Icon="ICON_UNIT_ALLIANCE_ICEBREAKER" Name="LOC_UNIT_ALLIANCE_ICEBREAKER_NAME" Description="LOC_UNIT_ALLIANCE_ICEBREAKER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="UNIT_HUMAN_MAGE" Icon="ICON_UNIT_HUMAN_MAGE" Name="LOC_UNIT_HUMAN_MAGE_NAME" Description="LOC_UNIT_HUMAN_MAGE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="BUILDING_ALTAR_OF_KINGS" Icon="ICON_BUILDING_ALTAR_OF_KINGS" Name="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Description="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND" LeaderType="LEADER_LLANE_WRYNN" Type="BUILDING_GRYPHON_NEST" Icon="ICON_BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" SortIndex="90"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_ORC_DESTROYER" Icon="ICON_UNIT_ORC_DESTROYER" Name="LOC_UNIT_ORC_DESTROYER_NAME" Description="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_BLACKHAND" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_ORC_DESTROYER" Icon="ICON_UNIT_ORC_DESTROYER" Name="LOC_UNIT_ORC_DESTROYER_NAME" Description="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_ORGRIM_DOOMHAMMER" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_ORC_DESTROYER" Icon="ICON_UNIT_ORC_DESTROYER" Name="LOC_UNIT_ORC_DESTROYER_NAME" Description="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="UNIT_FEL_ORC" Icon="ICON_UNIT_FEL_ORC" Name="LOC_UNIT_FEL_ORC_NAME" Description="LOC_UNIT_FEL_ORC_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="120"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORCISH_HORDE" LeaderType="LEADER_GULDAN" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="130"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_SPELL_BREAKER" Icon="ICON_UNIT_SPELL_BREAKER" Name="LOC_UNIT_SPELL_BREAKER_NAME" Description="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ELF_MAGE" Icon="ICON_UNIT_ELF_MAGE" Name="LOC_UNIT_ELF_MAGE_NAME" Description="LOC_UNIT_ELF_MAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ELVEN_RANGER" Icon="ICON_UNIT_ELVEN_RANGER" Name="LOC_UNIT_ELVEN_RANGER_NAME" Description="LOC_UNIT_ELVEN_RANGER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_DRAGONHAWK_RIDER" Icon="ICON_UNIT_DRAGONHAWK_RIDER" Name="LOC_UNIT_DRAGONHAWK_RIDER_NAME" Description="LOC_UNIT_DRAGONHAWK_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_HORDE_GUNSHIP" Icon="ICON_UNIT_HORDE_GUNSHIP" Name="LOC_UNIT_HORDE_GUNSHIP_NAME" Description="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_BLOOD_KNIGHT" Icon="ICON_UNIT_BLOOD_KNIGHT" Name="LOC_UNIT_BLOOD_KNIGHT_NAME" Description="LOC_UNIT_BLOOD_KNIGHT_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="UNIT_ARCANE_GOLEM" Icon="ICON_UNIT_ARCANE_GOLEM" Name="LOC_UNIT_ARCANE_GOLEM_NAME" Description="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="IMPROVEMENT_ARCANE_SANCTUM" Icon="ICON_IMPROVEMENT_ARCANE_SANCTUM" Name="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Description="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="IMPROVEMENT_MANAFORGE" Icon="ICON_IMPROVEMENT_MANAFORGE" Name="LOC_IMPROVEMENT_MANAFORGE_NAME" Description="LOC_IMPROVEMENT_MANAFORGE_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BLOOD_ELVES" LeaderType="LEADER_KAELTHAS_SUNSTRIDER" Type="BUILDING_DRAGONHAWK_NEST" Icon="ICON_BUILDING_DRAGONHAWK_NEST" Name="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Description="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_DWARF_RIFLEMAN" Icon="ICON_UNIT_DWARF_RIFLEMAN" Name="LOC_UNIT_DWARF_RIFLEMAN_NAME" Description="LOC_UNIT_DWARF_RIFLEMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_STEAM_TANK" Icon="ICON_UNIT_STEAM_TANK" Name="LOC_UNIT_STEAM_TANK_NAME" Description="LOC_UNIT_STEAM_TANK_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_RAM_RIDER_LIGHT" Icon="ICON_UNIT_RAM_RIDER_LIGHT" Name="LOC_UNIT_RAM_RIDER_LIGHT_NAME" Description="LOC_UNIT_RAM_RIDER_LIGHT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_RAM_RIDER_HEAVY" Icon="ICON_UNIT_RAM_RIDER_HEAVY" Name="LOC_UNIT_RAM_RIDER_HEAVY_NAME" Description="LOC_UNIT_RAM_RIDER_HEAVY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_GYROCOPTER" Icon="ICON_UNIT_GYROCOPTER" Name="LOC_UNIT_GYROCOPTER_NAME" Description="LOC_UNIT_GYROCOPTER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_GRYPHON_RIDER" Icon="ICON_UNIT_GRYPHON_RIDER" Name="LOC_UNIT_GRYPHON_RIDER_NAME" Description="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="UNIT_IRON_GUARDIAN" Icon="ICON_UNIT_IRON_GUARDIAN" Name="LOC_UNIT_IRON_GUARDIAN_NAME" Description="LOC_UNIT_IRON_GUARDIAN_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="BUILDING_DWARF_BUNKER" Icon="ICON_BUILDING_DWARF_BUNKER" Name="LOC_BUILDING_DWARF_BUNKER_NAME" Description="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE" LeaderType="LEADER_MAGNI_BRONZEBEARD" Type="BUILDING_GRYPHON_NEST" Icon="ICON_BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" SortIndex="100"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SENTINEL" Icon="ICON_UNIT_SENTINEL" Name="LOC_UNIT_SENTINEL_NAME" Description="LOC_UNIT_SENTINEL_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_NELF_WARDEN" Icon="ICON_UNIT_NELF_WARDEN" Name="LOC_UNIT_NELF_WARDEN_NAME" Description="LOC_UNIT_NELF_WARDEN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SABER_RIDER_LIGHT" Icon="ICON_UNIT_SABER_RIDER_LIGHT" Name="LOC_UNIT_SABER_RIDER_LIGHT_NAME" Description="LOC_UNIT_SABER_RIDER_LIGHT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SABER_RIDER_HEAVY" Icon="ICON_UNIT_SABER_RIDER_HEAVY" Name="LOC_UNIT_SABER_RIDER_HEAVY_NAME" Description="LOC_UNIT_SABER_RIDER_HEAVY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_HIPPOGRYPH_RIDER" Icon="ICON_UNIT_HIPPOGRYPH_RIDER" Name="LOC_UNIT_HIPPOGRYPH_RIDER_NAME" Description="LOC_UNIT_HIPPOGRYPH_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_SENTINEL_WARRIOR" Icon="ICON_UNIT_SENTINEL_WARRIOR" Name="LOC_UNIT_SENTINEL_WARRIOR_NAME" Description="LOC_UNIT_SENTINEL_WARRIOR_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_PRIESTESS_MOON" Icon="ICON_UNIT_PRIESTESS_MOON" Name="LOC_UNIT_PRIESTESS_MOON_NAME" Description="LOC_UNIT_PRIESTESS_MOON_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="UNIT_ANCIENT_PROTECTOR" Icon="ICON_UNIT_ANCIENT_PROTECTOR" Name="LOC_UNIT_ANCIENT_PROTECTOR_NAME" Description="LOC_UNIT_ANCIENT_PROTECTOR_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NIGHT_ELVES" LeaderType="LEADER_MALFURION" Type="BUILDING_TEMPLE_OF_MOON" Icon="ICON_BUILDING_TEMPLE_OF_MOON" Name="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Description="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" SortIndex="120"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_HIGHBORNE_ARCANIST" Icon="ICON_UNIT_HIGHBORNE_ARCANIST" Name="LOC_UNIT_HIGHBORNE_ARCANIST_NAME" Description="LOC_UNIT_HIGHBORNE_ARCANIST_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_ARCANE_GOLEM" Icon="ICON_UNIT_ARCANE_GOLEM" Name="LOC_UNIT_ARCANE_GOLEM_NAME" Description="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_SABER_RIDER_LIGHT" Icon="ICON_UNIT_SABER_RIDER_LIGHT" Name="LOC_UNIT_SABER_RIDER_LIGHT_NAME" Description="LOC_UNIT_SABER_RIDER_LIGHT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_SABER_RIDER_HEAVY" Icon="ICON_UNIT_SABER_RIDER_HEAVY" Name="LOC_UNIT_SABER_RIDER_HEAVY_NAME" Description="LOC_UNIT_SABER_RIDER_HEAVY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_HIPPOGRYPH_RIDER" Icon="ICON_UNIT_HIPPOGRYPH_RIDER" Name="LOC_UNIT_HIPPOGRYPH_RIDER_NAME" Description="LOC_UNIT_HIPPOGRYPH_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_ELVEN_DESTROYER" Icon="ICON_UNIT_ELVEN_DESTROYER" Name="LOC_UNIT_ELVEN_DESTROYER_NAME" Description="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_GLAIVE_THROWER" Icon="ICON_UNIT_GLAIVE_THROWER" Name="LOC_UNIT_GLAIVE_THROWER_NAME" Description="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_SENTINEL_WARRIOR" Icon="ICON_UNIT_SENTINEL_WARRIOR" Name="LOC_UNIT_SENTINEL_WARRIOR_NAME" Description="LOC_UNIT_SENTINEL_WARRIOR_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_PRIESTESS_MOON" Icon="ICON_UNIT_PRIESTESS_MOON" Name="LOC_UNIT_PRIESTESS_MOON_NAME" Description="LOC_UNIT_PRIESTESS_MOON_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="UNIT_ANCIENT_PROTECTOR" Icon="ICON_UNIT_ANCIENT_PROTECTOR" Name="LOC_UNIT_ANCIENT_PROTECTOR_NAME" Description="LOC_UNIT_ANCIENT_PROTECTOR_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KALDOREI_EMPIRE" LeaderType="LEADER_AZHARA" Type="BUILDING_TEMPLE_OF_MOON" Icon="ICON_BUILDING_TEMPLE_OF_MOON" Name="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Description="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" SortIndex="110"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_ALIANCE_GUNSHIP" Icon="ICON_UNIT_ALIANCE_GUNSHIP" Name="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Description="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_GRYPHON_RIDER" Icon="ICON_UNIT_GRYPHON_RIDER" Name="LOC_UNIT_GRYPHON_RIDER_NAME" Description="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_HUMAN_GUNMAN" Icon="ICON_UNIT_HUMAN_GUNMAN" Name="LOC_UNIT_HUMAN_GUNMAN_NAME" Description="LOC_UNIT_HUMAN_GUNMAN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_HAMMER_KNIGHT" Icon="ICON_UNIT_HAMMER_KNIGHT" Name="LOC_UNIT_HAMMER_KNIGHT_NAME" Description="LOC_UNIT_HAMMER_KNIGHT_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_ALLIANCE_ICEBREAKER" Icon="ICON_UNIT_ALLIANCE_ICEBREAKER" Name="LOC_UNIT_ALLIANCE_ICEBREAKER_NAME" Description="LOC_UNIT_ALLIANCE_ICEBREAKER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="UNIT_HUMAN_MAGE" Icon="ICON_UNIT_HUMAN_MAGE" Name="LOC_UNIT_HUMAN_MAGE_NAME" Description="LOC_UNIT_HUMAN_MAGE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="BUILDING_ALTAR_OF_KINGS" Icon="ICON_BUILDING_ALTAR_OF_KINGS" Name="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Description="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LORDAERON" LeaderType="LEADER_TERENAS_MENETHIL" Type="BUILDING_GRYPHON_NEST" Icon="ICON_BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_EMPEROR_SHIELD" Icon="ICON_UNIT_EMPEROR_SHIELD" Name="LOC_UNIT_EMPEROR_SHIELD_NAME" Description="LOC_UNIT_EMPEROR_SHIELD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_SAUROK" Icon="ICON_UNIT_SAUROK" Name="LOC_UNIT_SAUROK_NAME" Description="LOC_UNIT_SAUROK_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_STONEBORN" Icon="ICON_UNIT_STONEBORN" Name="LOC_UNIT_STONEBORN_NAME" Description="LOC_UNIT_STONEBORN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_SPIRITBINDER" Icon="ICON_UNIT_SPIRITBINDER" Name="LOC_UNIT_SPIRITBINDER_NAME" Description="LOC_UNIT_SPIRITBINDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_ENORMOUS_QUILEN" Icon="ICON_UNIT_ENORMOUS_QUILEN" Name="LOC_UNIT_ENORMOUS_QUILEN_NAME" Description="LOC_UNIT_ENORMOUS_QUILEN_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_BRONZE_QUILEN" Icon="ICON_UNIT_BRONZE_QUILEN" Name="LOC_UNIT_BRONZE_QUILEN_NAME" Description="LOC_UNIT_BRONZE_QUILEN_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MOGU_EMPIRE" LeaderType="LEADER_LEI_SHEN" Type="UNIT_FLYING_QUILEN" Icon="ICON_UNIT_FLYING_QUILEN" Name="LOC_UNIT_FLYING_QUILEN_NAME" Description="LOC_UNIT_FLYING_QUILEN_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_WARDANCERS" Icon="ICON_UNIT_WARDANCERS" Name="LOC_UNIT_WARDANCERS_NAME" Description="LOC_UNIT_WARDANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_BREWMASTER" Icon="ICON_UNIT_BREWMASTER" Name="LOC_UNIT_BREWMASTER_NAME" Description="LOC_UNIT_BREWMASTER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_TIGER_RIDER" Icon="ICON_UNIT_TIGER_RIDER" Name="LOC_UNIT_TIGER_RIDER_NAME" Description="LOC_UNIT_TIGER_RIDER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_CRANE_RIDER" Icon="ICON_UNIT_CRANE_RIDER" Name="LOC_UNIT_CRANE_RIDER_NAME" Description="LOC_UNIT_CRANE_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_KITE" Icon="ICON_UNIT_KITE" Name="LOC_UNIT_KITE_NAME" Description="LOC_UNIT_KITE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PANDAREN_EMPIRE" LeaderType="LEADER_SHAOHAO" Type="UNIT_PANDAREN_MONK" Icon="ICON_UNIT_PANDAREN_MONK" Name="LOC_UNIT_PANDAREN_MONK_NAME" Description="LOC_UNIT_PANDAREN_MONK_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="450"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_DREADNAUGHT" Icon="ICON_UNIT_DREADNAUGHT" Name="LOC_UNIT_DREADNAUGHT_NAME" Description="LOC_UNIT_DREADNAUGHT_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="110"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_KOR_KRON" Icon="ICON_UNIT_KOR_KRON" Name="LOC_UNIT_KOR_KRON_NAME" Description="LOC_UNIT_KOR_KRON_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_WYVERN_RIDER" Icon="ICON_UNIT_WYVERN_RIDER" Name="LOC_UNIT_WYVERN_RIDER_NAME" Description="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" SortIndex="450"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_GRUNT" Icon="ICON_UNIT_GRUNT" Name="LOC_UNIT_GRUNT_NAME" Description="LOC_UNIT_GRUNT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_OGRE" Icon="ICON_UNIT_OGRE" Name="LOC_UNIT_OGRE_NAME" Description="LOC_UNIT_OGRE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_DREADNAUGHT" Icon="ICON_UNIT_DREADNAUGHT" Name="LOC_UNIT_DREADNAUGHT_NAME" Description="LOC_UNIT_DREADNAUGHT_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_DEMOLISHER" Icon="ICON_UNIT_DEMOLISHER" Name="LOC_UNIT_DEMOLISHER_NAME" Description="LOC_UNIT_DEMOLISHER_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_SHAMAN" Icon="ICON_UNIT_SHAMAN" Name="LOC_UNIT_SHAMAN_NAME" Description="LOC_UNIT_SHAMAN_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_FEL_ORC" Icon="ICON_UNIT_FEL_ORC" Name="LOC_UNIT_FEL_ORC_NAME" Description="LOC_UNIT_FEL_ORC_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="UNIT_ORC_WARLOCK" Icon="ICON_UNIT_ORC_WARLOCK" Name="LOC_UNIT_ORC_WARLOCK_NAME" Description="LOC_UNIT_ORC_WARLOCK_DESCRIPTION" SortIndex="120"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="IMPROVEMENT_WATCH_TOWER" Icon="ICON_IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" SortIndex="130"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_HORDE" LeaderType="LEADER_GULDAN_AU" Type="BUILDING_WYVERNS_NEST" Icon="ICON_BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" SortIndex="140"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_FELGUARD" Icon="ICON_UNIT_FELGUARD" Name="LOC_UNIT_FELGUARD_NAME" Description="LOC_UNIT_FELGUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_FEL_ORC" Icon="ICON_UNIT_FEL_ORC" Name="LOC_UNIT_FEL_ORC_NAME" Description="LOC_UNIT_FEL_ORC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_DEMON_HUNTER" Icon="ICON_UNIT_DEMON_HUNTER" Name="LOC_UNIT_DEMON_HUNTER_NAME" Description="LOC_UNIT_DEMON_HUNTER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_NAGA_MYRMIDON" Icon="ICON_UNIT_NAGA_MYRMIDON" Name="LOC_UNIT_NAGA_MYRMIDON_NAME" Description="LOC_UNIT_NAGA_MYRMIDON_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_NAGA_SIREN" Icon="ICON_UNIT_NAGA_SIREN" Name="LOC_UNIT_NAGA_SIREN_NAME" Description="LOC_UNIT_NAGA_SIREN_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_ELF_MAGE" Icon="ICON_UNIT_ELF_MAGE" Name="LOC_UNIT_ELF_MAGE_NAME" Description="LOC_UNIT_ELF_MAGE_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_WOLF_RIDER_LIGHT" Icon="ICON_UNIT_WOLF_RIDER_LIGHT" Name="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Description="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_WOLF_RIDER_HEAVY" Icon="ICON_UNIT_WOLF_RIDER_HEAVY" Name="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Description="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_COMMAND_SHIP" Icon="ICON_UNIT_COMMAND_SHIP" Name="LOC_UNIT_COMMAND_SHIP_NAME" Description="LOC_UNIT_COMMAND_SHIP_DESCRIPTION" SortIndex="90"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="UNIT_NETHERWING_DRAGONFLIGHT" Icon="ICON_UNIT_NETHERWING_DRAGONFLIGHT" Name="LOC_UNIT_NETHERWING_DRAGONFLIGHT_NAME" Description="LOC_UNIT_NETHERWING_DRAGONFLIGHT_DESCRIPTION" SortIndex="100"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="BUILDING_DRAGON_NEST" Icon="ICON_BUILDING_DRAGON_NEST" Name="LOC_BUILDING_DRAGON_NEST_NAME" Description="LOC_BUILDING_DRAGON_NEST_DESCRIPTION" SortIndex="110"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ILLIDARI" LeaderType="LEADER_ILLIDAN_STORMRAGE" Type="IMPROVEMENT_STEAM_PUMP" Icon="ICON_IMPROVEMENT_STEAM_PUMP" Name="LOC_IMPROVEMENT_STEAM_PUMP_NAME" Description="LOC_IMPROVEMENT_STEAM_PUMP_DESCRIPTION" SortIndex="120"/>
+
+
+	</PlayerItems>
+</GameData>

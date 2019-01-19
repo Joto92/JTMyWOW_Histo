@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: World Of Warcraft Historial Leaders</Name>
+    <Guid>0951944c-126e-47b4-ae58-53d4a583875f</Guid>
+    <ProjectGuid>a772df6b-2a26-4b8d-8168-c52d81d23ec1</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>JT: World Of Warcraft Historial Leaders</Teaser>
+    <Description>JT: World Of Warcraft Historial Leaders</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+			<InGameActions>
+				<UpdateDatabase id="Gameplay">
+					<File>MyWOW_Histo_Civs.xml</File>
+					<File>MyWOW_Histo_Leaders.xml</File>
+					<File>MyWOW_Histo_Colors.xml</File>
+					<File>MyWOW_Histo_Agendas.xml</File>
+					<File>MyWOW_Histo_Religions.xml</File>
+					<File>MyWOW_Histo_CityStates.xml</File>
+				</UpdateDatabase>
+				<UpdateText id="Text">
+					<File>MyWOW_Histo_ConfigText.xml</File>
+					<File>MyWOW_Histo_Text.xml</File>
+					<File>MyWOW_Histo_DiploText.xml</File>
+					<File>MyWOW_Histo_Civilipedia.xml</File>
+					<File>Translations/MyWOW_Histo_ConfigTextES.xml</File>
+					<File>Translations/MyWOW_Histo_TextES.xml</File>
+					<File>Translations/MyWOW_Histo_DiploTextES.xml</File>
+					<File>Translations/MyWOW_Histo_CivilipediaES.xml</File>
+          <File>Translations/MyWOW_Histo_ConfigTextHansCN.xml</File>
+				</UpdateText>
+				<UpdateIcons id="Icons">
+					<File>MyWOW_Histo_Icons.xml</File>
+				</UpdateIcons>
+				<UpdateArt id="Art">
+					<File>(Mod Art Dependency File)</File>
+				</UpdateArt>
+			</InGameActions>
+		]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+			<FrontEndActions>
+				<UpdateDatabase id="Config">
+					<File>MyWOW_Histo_Config.xml</File>
+				</UpdateDatabase>
+				<UpdateText id="ConfigText">
+					<File>MyWOW_Histo_ConfigText.xml</File>
+					<File>Translations/MyWOW_Histo_ConfigTextES.xml</File>
+          <File>Translations/MyWOW_Histo_ConfigTextHansCN.xml</File>
+				</UpdateText>
+				<UpdateIcons id="ConfigIcons">
+					<File>MyWOW_Histo_Icons.xml</File>
+				</UpdateIcons>
+				<UpdateArt id="ConfigArt">
+					<File>(Mod Art Dependency File)</File>
+				</UpdateArt>
+			</FrontEndActions>
+		]]></FrontEndActionData>
+    <AssemblyName>MyWOW_Histo</AssemblyName>
+    <RootNamespace>MyWOW_Histo</RootNamespace>
+    <Authors>Jordi T</Authors>
+    <AssociationData><![CDATA[<Associations>
+	<Dependency type="Mod" title="JT: World of Warcraft Mod" id="f1c32ba6-b50b-413a-b251-1ac8147f289a" />
+</Associations>]]></AssociationData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Civilizations.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Cultures.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_CityStates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_Histo_CivilipediaES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_Histo_ConfigTextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_Histo_DiploTextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_Histo_TextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_Histo_ConfigTextHansCN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyWOW_Histo_DiploText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_Agendas.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_Civilipedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_Config.xml" />
+    <Content Include="MyWOW_Histo_ConfigText.xml" />
+    <Content Include="MyWOW_Histo_Civs.xml" />
+    <Content Include="MyWOW_Histo_Icons.xml" />
+    <Content Include="MyWOW_Histo_Leaders.xml" />
+    <Content Include="MyWOW_Histo_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

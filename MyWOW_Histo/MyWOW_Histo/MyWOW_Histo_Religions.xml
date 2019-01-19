@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FavoredReligions>
+		<Row LeaderType="LEADER_ANASTERIAN_SUNSTRIDER" ReligionType="RELIGION_BLOOD_KNIGHTS" />
+		<Row LeaderType="LEADER_LLANE_WRYNN" ReligionType="RELIGION_HOLY_LIGHT" />
+		<Row LeaderType="LEADER_BLACKHAND" ReligionType="RELIGION_SHAMANISM" />
+		<Row LeaderType="LEADER_ORGRIM_DOOMHAMMER" ReligionType="RELIGION_SHAMANISM" />
+		<Row LeaderType="LEADER_GULDAN" ReligionType="RELIGION_FEL" />
+		<Row LeaderType="LEADER_KAELTHAS_SUNSTRIDER" ReligionType="RELIGION_BLOOD_KNIGHTS" />
+		<Row LeaderType="LEADER_MAGNI_BRONZEBEARD" ReligionType="RELIGION_TITANS" />
+		<Row LeaderType="LEADER_MALFURION" ReligionType="RELIGION_ELUNE" />
+		<Row LeaderType="LEADER_AZHARA" ReligionType="RELIGION_ELUNE" />
+		<Row LeaderType="LEADER_TERENAS_MENETHIL" ReligionType="RELIGION_HOLY_LIGHT" />
+		<Row LeaderType="LEADER_LEI_SHEN" ReligionType="RELIGION_TITANS" />
+		<Row LeaderType="LEADER_SHAOHAO" ReligionType="RELIGION_GEOMANCY" />
+		<Row LeaderType="LEADER_GROMMASH_HELLSCREAM_AU" ReligionType="RELIGION_SHAMANISM" />
+		<Row LeaderType="LEADER_GULDAN_AU" ReligionType="RELIGION_FEL" />
+		<Row LeaderType="LEADER_ILLIDAN_STORMRAGE" ReligionType="RELIGION_FEL" />
+
+	</FavoredReligions>
+</GameData>

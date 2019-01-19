@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MyWOW_Histo_ConfigTextES -->
+<!-- Author: Jordi -->
+<!-- DateCreated: 12/20/2017 12:00:49 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- Quel'Thalas | Anasterian Sunstrider-->
+		<Replace Tag="LOC_LEADER_ANASTERIAN_SUNSTRIDER_NAME" Language="es_ES">
+			<Text>Anasterian Sunstrider</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_NAME" Language="es_ES">
+			<Text>Last High King of Quel'Thalas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_HIGH_KING_QUELTHALAS_DESCRIPTION" Language="es_ES">
+			<Text>+1 a Cultura [ICON_Culture] y +1 a Ciencia [ICON_Science] por las Rutas comerciales [ICON_TradeRoute] internacionales. +100% al rendimiento de la Cultura [ICON_Culture] de los edificios del distrito de Teatros.</Text>
+		</Replace>
+		<!-- END Quel'Thalas | Anasterian Sunstrider-->
+		<!-- HUMANS | LLANE_WRYNN-->
+		<Replace Tag="LOC_TRAIT_DEFENDER_OF_AZEROTH_NAME" Language="es_ES">
+			<Text>Defensor de Azeroth</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENDER_OF_AZEROTH_DESCRIPTION" Language="es_ES">
+			<Text>+5% a Cultura [ICON_Culture] por cada ciudad-estado de la que seas suzerano.</Text>
+		</Replace>
+		<!-- END HUMANS | LLANE_WRYNN-->
+		<!-- ORC | BLACKHAND-->
+		<Replace Tag="LOC_CIVILIZATION_ORCISH_HORDE_NAME" Language="es_ES">
+			<Text>Horda de Orcos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORCISH_HORDE_DESCRIPTION" Language="es_ES">
+			<Text>Horda de Orcos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORCISH_HORDE_ADJECTIVE" Language="es_ES">
+			<Text>Orco</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BLACKHAND_NAME" Language="es_ES">
+			<Text>Puño Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DESTROYER_NAME" Language="es_ES">
+			<Text>El Destructor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DESTROYER_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales ganan 1 de Producción [ICON_Production] si estan al lado de una Montaña. Todas la minas dan 1 de Oro [ICON_Gold] y 1 de Producción [ICON_Production].</Text>
+		</Replace>
+		<!-- END ORC | BLACKHAND-->
+		<!-- ORC | ORGRIM_DOOMHAMMER-->
+		<Replace Tag="LOC_LEADER_ORGRIM_DOOMHAMMER_NAME" Language="es_ES">
+			<Text>Orgrim Martillo Maldito</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DOOMHAMMER_NAME" Language="es_ES">
+			<Text>El Martillo Maldito</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DOOMHAMMER_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis.</Text>
+		</Replace>
+		<!-- END ORC | ORGRIM_DOOMHAMMER-->
+		<!-- ORC | GULDAN-->
+		<Replace Tag="LOC_TRAIT_DARKNESS_INCARNATE_NAME" Language="es_ES">
+			<Text>Oscuridad Encarnada</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARKNESS_INCARNATE_DESCRIPTION" Language="es_ES">
+			<Text>Puede comprar cualquier unidad con Fe.</Text>
+		</Replace>
+		<!-- END ORC | GULDAN-->
+		<!-- BLOOD ELFS | KAELTHAS_SUNSTRIDER-->
+		<Replace Tag="LOC_LEADER_KAELTHAS_SUNSTRIDER_NAME" Language="es_ES">
+			<Text>Kael'Thas Sunstrider</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SUN_KING_NAME" Language="es_ES">
+			<Text>El Rey Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SUN_KING_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] internac. dan +1 de Oro [ICON_Gold] por recurso estratégico y de lujo mejorado en destino, +2 a Cultura [ICON_Culture] y +2 a Ciencia [ICON_Science].</Text>
+		</Replace>
+		<!-- END BLOOD ELFS | KAELTHAS_SUNSTRIDER-->
+		<!-- DWARVES | MAGNI_BRONZEBEARD-->
+		<Replace Tag="LOC_LEADER_MAGNI_BRONZEBEARD_NAME" Language="es_ES">
+			<Text>Magni Bronzebeard</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DIAMOND_KING_NAME" Language="es_ES">
+			<Text>The Diamond King</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DIAMOND_KING_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos reciben una bonificación por adyacencia adicional por estar adyacentes a otro distrito.</Text>
+		</Replace>
+		<!-- END DWARVES | MAGNI_BRONZEBEARD-->
+		<!-- NIGHT ELVES | MALFURION-->
+		<Replace Tag="LOC_TRAIT_SHANDO_DESCRIPTION" Language="es_ES">
+			<Text>Cualquier jugador puede comprar el edificio de culto de su religión por una décima parte del coste de Fe [ICON_Faith] habitual. Este edificio está mejorado para añadir un 10% de producción a Ciencia [ICON_Science], Fe [ICON_Faith] y Cultura [ICON_Culture] en los Elfos.</Text>
+		</Replace>
+		<!-- END NIGHT ELVES | MALFURION-->
+		<!-- KALDOREI_EMPIRE | Azhara-->
+		<Replace Tag="LOC_CIVILIZATION_KALDOREI_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Kaldorei</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KALDOREI_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Kaldorei</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_QUEL_DOREI_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades que fundes o conquistes comienzan con un Puesto comercial. Si se encuentran dentro del alcance de una Ruta comercial [ICON_TradeRoute] de tu capital [ICON_Capital] también comenzarán con una Carretera hacia ella. Tus Rutas comerciales [ICON_TradeRoute] ganan +1 de Oro [ICON_Gold] por pasar por los Puestos comerciales que hay en tus ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LIGHT_OF_LIGHTS_NAME" Language="es_ES">
+			<Text>Luz de Luces</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LIGHT_OF_LIGHTS_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno.</Text>
+		</Replace>
+		<!-- END KALDOREI_EMPIRE | Azhara-->
+		<!-- LORDAERON | TERENAS_MENETHIL-->
+		<Replace Tag="LOC_CIVILIZATION_LORDAERON_DESCRIPTION" Language="es_ES">
+			<Text>Kingdom Lordaeron</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ALLIANCE_OF_LORDAERON_NAME" Language="es_ES">
+			<Text>Alliance of Lordaeron</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ALLIANCE_OF_LORDAERON_DESCRIPTION" Language="es_ES">
+			<Text>Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por saqueo y la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_TRUE_KING_LORDAERON_NAME" Language="es_ES">
+			<Text>Last True King Lordaeron</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_TRUE_KING_LORDAERON_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su continente de origen.</Text>
+		</Replace>
+		<!-- END LORDAERON | TERENAS_MENETHIL-->
+		<!-- MOGU_EMPIRE | LEI_SHEN-->
+		<Replace Tag="LOC_CIVILIZATION_MOGU_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Mogu</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGU_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Mogu</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TITAN_FORGED_NAME" Language="es_ES">
+			<Text>Forjados por los Titanes</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TITAN_FORGED_DESCRIPTION" Language="es_ES">
+			<Text>Puede capturar unidades enemigas derrotadas como Constructores.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THUNDER_KING_NAME" Language="es_ES">
+			<Text>Rey Trueno</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THUNDER_KING_DESCRIPTION" Language="es_ES">
+			<Text>Gasta cargas de Constructor para completar el 20% del coste original del distrito. Al construir maravillas antiguas y clásicas puedes gastar cargas de Constructor para completar el 15% del coste original de la maravilla. Los Constructores reciben una carga adicional.</Text>
+		</Replace>
+		<!-- END MOGU_EMPIRE | LEI_SHEN-->
+		<!-- PANDAREN_EMPIRE | LEI_SHEN-->
+		<Replace Tag="LOC_CIVILIZATION_PANDAREN_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Pandaren</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PANDAREN_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Pandaren</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MISTS_OF_PANDARIA_NAME" Language="es_ES">
+			<Text>Mists of Panadaria</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MISTS_OF_PANDARIA_DESCRIPTION" Language="es_ES">
+			<Text>Cada ciudad puede construir un distrito más de lo habitual (excediendo el límite normal, basado en la Población [ICON_Citizen]).</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEART_OF_PANDARIA_NAME" Language="es_ES">
+			<Text>Corazon de Pandaria</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEART_OF_PANDARIA_DESCRIPTION" Language="es_ES">
+			<Text>+1 a Fe [ICON_Faith] por todas las Rutas comerciales [ICON_TradeRoute].Duplica el rendimiento de la Fe [ICON_Faith] de los edificios de los distritos de Lugar sagrado.</Text>
+		</Replace>
+		<!-- END PANDAREN_EMPIRE | LEI_SHEN-->
+		<!-- IRON_HORDE | GROMMASH_HELLSCREAM_AU-->
+		<Replace Tag="LOC_CIVILIZATION_IRON_HORDE_NAME" Language="es_ES">
+			<Text>Horda de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_IRON_HORDE_DESCRIPTION" Language="es_ES">
+			<Text>Horda de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_IRON_HORDE_ADJECTIVE" Language="es_ES">
+			<Text>Horda de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRONMARCH_NAME" Language="es_ES">
+			<Text>Marcha de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRONMARCH_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades reciben +5 a la Fuerza de combate [ICON_Strength] cuando atacan a unidades heridas. Al eliminar a una unidad, recuperan hasta 50 puntos de golpe.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GROMMASH_HELLSCREAM_AU_NAME" Language="es_ES">
+			<Text>Grommash Grito Infernal AU</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRON_WILL_NAME" Language="es_ES">
+			<Text>Voluntad de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRON_WILL_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno.</Text>
+		</Replace>
+		<!-- END IRON_HORDE | GROMMASH_HELLSCREAM_AU-->
+		<!-- IRON_HORDE | GULDAN_AU-->
+		<Replace Tag="LOC_TRAIT_THE_FIRST_WARLOCK_NAME" Language="es_ES">
+			<Text>El Primer Brujo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_FIRST_WARLOCK_DESCRIPTION" Language="es_ES">
+			<Text>Puede comprar cualquier unidad con Fe.</Text>
+		</Replace>
+		<!-- END IRON_HORDE | GULDAN_AU-->
+		<!-- ILLIDARI | ILLIDAN_STORMRAGE-->
+		<Replace Tag="LOC_CIVILIZATION_ILLIDARI_NAME" Language="es_ES">
+			<Text>Illidari</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ILLIDARI_DESCRIPTION" Language="es_ES">
+			<Text>Illidari</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ILLIDARI_ADJECTIVE" Language="es_ES">
+			<Text>Illidari</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ARMIES_OF_LEGIONFALL_NAME" Language="es_ES">
+			<Text>Ocaso de la Legión</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ARMIES_OF_LEGIONFALL_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ILLIDAN_STORMRAGE_NAME" Language="es_ES">
+			<Text>Illidan Tempestira</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_OF_OUTLAND_NAME" Language="es_ES">
+			<Text>Señor de Terrallende</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_OF_OUTLAND_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis. +5 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<!-- END ILLIDARI | ILLIDAN_STORMRAGE-->
+	</LocalizedText>
+</GameData>
