@@ -10,10 +10,6 @@
 	<m_PackageName text="LeaderFallbacks"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="FALLBACK_NEUTRAL_ANASTERIAN_SUNSTRIDER"/>
-			<m_ObjectName text="FALLBACK_NEUTRAL_ANASTERIAN_SUNSTRIDER"/>
-		</Element>
-		<Element>
 			<m_EntryID text="FALLBACK_NEUTRAL_LLANE_WRYNN"/>
 			<m_ObjectName text="FALLBACK_NEUTRAL_LLANE_WRYNN"/>
 		</Element>
@@ -36,10 +32,6 @@
 		<Element>
 			<m_EntryID text="FALLBACK_NEUTRAL_MAGNI_BRONZEBEARD"/>
 			<m_ObjectName text="FALLBACK_NEUTRAL_MAGNI_BRONZEBEARD"/>
-		</Element>
-		<Element>
-			<m_EntryID text="FALLBACK_NEUTRAL_MALFURION"/>
-			<m_ObjectName text="FALLBACK_NEUTRAL_MALFURION"/>
 		</Element>
 		<Element>
 			<m_EntryID text="FALLBACK_NEUTRAL_AZHARA"/>
@@ -68,6 +60,14 @@
 		<Element>
 			<m_EntryID text="FALLBACK_NEUTRAL_ILLIDAN_STORMRAGE"/>
 			<m_ObjectName text="FALLBACK_NEUTRAL_ILLIDAN_STORMRAGE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MALFURION"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MALFURION"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ANASTERIAN_SUNSTRIDER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ANASTERIAN_SUNSTRIDER"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

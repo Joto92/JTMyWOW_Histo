@@ -79,6 +79,9 @@
     <Content Include="MyWOW_Histo_CityStates.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="MyWOW_Histo_Expansion2_New.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Translations\MyWOW_Histo_CivilipediaES.xml">
       <SubType>Content</SubType>
     </Content>

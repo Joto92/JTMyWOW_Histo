@@ -10,10 +10,6 @@
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL"/>
-			<m_ObjectName text="LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL"/>
-		</Element>
-		<Element>
 			<m_EntryID text="LEADER_ANASTERIAN_SUNSTRIDER_BACKGROUND"/>
 			<m_ObjectName text="LEADER_ANASTERIAN_SUNSTRIDER_BACKGROUND"/>
 		</Element>
@@ -64,10 +60,6 @@
 		<Element>
 			<m_EntryID text="LEADER_MAGNI_BRONZEBEARD_BACKGROUND"/>
 			<m_ObjectName text="LEADER_MAGNI_BRONZEBEARD_BACKGROUND"/>
-		</Element>
-		<Element>
-			<m_EntryID text="LEADER_MALFURION_NEUTRAL"/>
-			<m_ObjectName text="LEADER_MALFURION_NEUTRAL"/>
 		</Element>
 		<Element>
 			<m_EntryID text="LEADER_MALFURION_BACKGROUND"/>
@@ -128,6 +120,14 @@
 		<Element>
 			<m_EntryID text="LEADER_ILLIDAN_STORMRAGE_BACKGROUND"/>
 			<m_ObjectName text="LEADER_ILLIDAN_STORMRAGE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MALFURION_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MALFURION_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ANASTERIAN_SUNSTRIDER_NEUTRAL"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
