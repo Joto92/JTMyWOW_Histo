@@ -21,6 +21,7 @@
 					<File>MyWOW_Histo_Agendas.xml</File>
 					<File>MyWOW_Histo_Religions.xml</File>
 					<File>MyWOW_Histo_CityStates.xml</File>
+          <File>MyWOW_Histo_Wonders.xml</File>
 				</UpdateDatabase>
 				<UpdateText id="Text">
 					<File>MyWOW_Histo_ConfigText.xml</File>
@@ -61,7 +62,7 @@
 		]]></FrontEndActionData>
     <AssemblyName>MyWOW_Histo</AssemblyName>
     <RootNamespace>MyWOW_Histo</RootNamespace>
-    <Authors>Jordi T</Authors>
+    <Authors>Joto92</Authors>
     <AssociationData><![CDATA[<Associations>
 	<Dependency type="Mod" title="JT: World of Warcraft Mod" id="f1c32ba6-b50b-413a-b251-1ac8147f289a" />
 </Associations>]]></AssociationData>
@@ -80,6 +81,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyWOW_Histo_Expansion2_New.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Histo_Wonders.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Translations\MyWOW_Histo_CivilipediaES.xml">

@@ -40,5 +40,14 @@
 		<Row Name="ICON_CIVILIZATION_STORMSPIRE"             Atlas="ICON_ATLAS_CIVILIZATIONS" Index="43"/>
 
 		<!-- End of City States-->
+
+		<Row Name="ICON_FEATURE_OSHU_GUN"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_THRONE_OF_KILJAEDEN"	Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_THE_HAND_OF_GULDAN"	Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_BLEEDING_MOUNTAIN"	Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_DREADTALON_PEAK"    Atlas="ICON_ATLAS_FEATURES" Index="15"/>
+		<Row Name="ICON_FEATURE_ZANGARRA"        Atlas="ICON_ATLAS_FEATURES" Index="6"/>
+		<Row Name="ICON_FEATURE_CRIMSON_FEN"        Atlas="ICON_ATLAS_FEATURES" Index="6"/>
+
 	</IconDefinitions>
 </GameData>

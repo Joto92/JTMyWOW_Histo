@@ -119,6 +119,7 @@
 		<Element>
 			<consumerName text="Terrain"/>
 			<relativeArtDefPaths>
+				<Element text="TerrainStyle.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="TerrainAsset"/>
@@ -242,6 +243,7 @@
 		<Element>
 			<consumerName text="Features"/>
 			<relativeArtDefPaths>
+				<Element text="Features.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies/>
 			<loadsLibraries>false</loadsLibraries>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="FEATURE_OSHU_GUN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_THRONE_OF_KILJAEDEN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_THE_HAND_OF_GULDAN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_BLEEDING_MOUNTAIN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_DREADTALON_PEAK" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_ZANGARRA" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_CRIMSON_FEN" Kind="KIND_FEATURE" />
+	</Types>
+
+	<Features>
+		<Row FeatureType="FEATURE_OSHU_GUN" Name="LOC_FEATURE_OSHU_GUN_NAME" Description="LOC_FEATURE_OSHU_GUN_DESCRIPTION" Quote="LOC_FEATURE_OSHU_GUN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_THRONE_OF_KILJAEDEN" Name="LOC_FEATURE_THRONE_OF_KILJAEDEN_NAME" Description="LOC_FEATURE_THRONE_OF_KILJAEDEN_DESCRIPTION" Quote="LOC_FEATURE_THRONE_OF_KILJAEDEN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_THE_HAND_OF_GULDAN" Name="LOC_FEATURE_THE_HAND_OF_GULDAN_NAME" Description="LOC_FEATURE_THE_HAND_OF_GULDAN_DESCRIPTION" Quote="LOC_FEATURE_THE_HAND_OF_GULDAN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_BLEEDING_MOUNTAIN" Name="LOC_FEATURE_BLEEDING_MOUNTAIN_NAME" Description="LOC_FEATURE_BLEEDING_MOUNTAIN_DESCRIPTION" Quote="LOC_FEATURE_BLEEDING_MOUNTAIN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" Name="LOC_FEATURE_DREADTALON_PEAK_NAME" Description="LOC_FEATURE_DREADTALON_PEAK_DESCRIPTION" Quote="LOC_FEATURE_DREADTALON_PEAK_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" NoResource="true"  MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_ZANGARRA" Name="LOC_FEATURE_ZANGARRA_NAME" Description="LOC_FEATURE_ZANGARRA_DESCRIPTION" Quote="LOC_FEATURE_ZANGARRA_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" MinDistanceLand="1" MaxDistanceLand="1" Tiles="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_CRIMSON_FEN" Name="LOC_FEATURE_CRIMSON_FEN_NAME" Description="LOC_FEATURE_CRIMSON_FEN_DESCRIPTION" Quote="LOC_FEATURE_CRIMSON_FEN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" MinDistanceLand="1" MaxDistanceLand="1" Tiles="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THRONE_OF_KILJAEDEN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THRONE_OF_KILJAEDEN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THRONE_OF_KILJAEDEN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THE_HAND_OF_GULDAN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THE_HAND_OF_GULDAN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THE_HAND_OF_GULDAN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_BLEEDING_MOUNTAIN" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_ZANGARRA" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_CRIMSON_FEN" TerrainType="TERRAIN_COAST"/>
+	</Feature_ValidTerrains>
+	<Feature_NotNearFeatures>
+		<Row FeatureType="FEATURE_ZANGARRA" FeatureTypeAvoid="FEATURE_ICE"/>
+		<Row FeatureType="FEATURE_CRIMSON_FEN" FeatureTypeAvoid="FEATURE_ICE"/>
+	</Feature_NotNearFeatures>
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_OSHU_GUN" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+	</Feature_NotAdjacentTerrains>
+
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_ZANGARRA" YieldType="YIELD_SCIENCE" YieldChange="4"/>
+		<Row FeatureType="FEATURE_CRIMSON_FEN" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_CRIMSON_FEN" YieldType="YIELD_FOOD" YieldChange="1"/>
+	</Feature_YieldChanges>
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_OSHU_GUN" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_OSHU_GUN" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_THRONE_OF_KILJAEDEN" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_THRONE_OF_KILJAEDEN" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row FeatureType="FEATURE_THE_HAND_OF_GULDAN" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_THE_HAND_OF_GULDAN" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_BLEEDING_MOUNTAIN" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_DREADTALON_PEAK" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+
+	</Feature_AdjacentYields>
+</GameData>

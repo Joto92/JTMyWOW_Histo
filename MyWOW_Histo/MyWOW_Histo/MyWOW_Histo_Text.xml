@@ -637,8 +637,121 @@
 			<Text>Southern Rampart</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NORTHERN_RAMPART" Language="en_US">
-			<Text>Northern  Rampart</Text>
+			<Text>Northern Rampart</Text>
 		</Row>
 		<!-- END ILLIDAN-->
+		<!-- Continents-->
+		<Row Tag="LOC_CONTINENT_DRAENOR_DESCRIPTION" Language="en_US">
+			<Text>Draenor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_TANAAN_DESCRIPTION" Language="en_US">
+			<Text>Tanaan</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SHADOWMOON_VALLEY_DESCRIPTION" Language="en_US">
+			<Text>Shadowmoon Valley</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ARAK_DESCRIPTION" Language="en_US">
+			<Text>Arak</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_TALADOR_DESCRIPTION" Language="en_US">
+			<Text>Talador</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_NAGRAND_DESCRIPTION" Language="en_US">
+			<Text>Nagrand</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_FROSTFIRE_RIDGE_DESCRIPTION" Language="en_US">
+			<Text>Frostfire Ridge</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_GORGROND_DESCRIPTION" Language="en_US">
+			<Text>Gorgrond</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ASHRAN_DESCRIPTION" Language="en_US">
+			<Text>Ashran</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_FARAHLON_DESCRIPTION" Language="en_US">
+			<Text>Farahlon</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_OUTLAND_DESCRIPTION" Language="en_US">
+			<Text>Outland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_HELLFIRE_PENINSULA_DESCRIPTION" Language="en_US">
+			<Text>Hellfire Peninsula</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ZANGARMARSH_DESCRIPTION" Language="en_US">
+			<Text>Zangarmarsh</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_TEROKKAR_DESCRIPTION" Language="en_US">
+			<Text>Terokkar</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_BLADES_EDGE_MOUNTAINS_DESCRIPTION" Language="en_US">
+			<Text>Blade's Edge Mountains</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_NETHERSTORM_DESCRIPTION" Language="en_US">
+			<Text>Netherstorm</Text>
+		</Row>
+		<!-- Natural Wonders-->
+		<Row Tag="LOC_FEATURE_OSHU_GUN_NAME" Language="en_US" >
+			<Text>Oshu’gun</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_OSHU_GUN_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Faith] Faith and +1 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_OSHU_GUN_QUOTE" Language="en_US">
+			<Text>Oshu'gun, orcish for "Mountain of Spirits"  but instead of being jagged and irregular like other mountains, it is smooth and triangular.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THRONE_OF_KILJAEDEN_NAME" Language="en_US" >
+			<Text>Throne of Kil'jaeden</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THRONE_OF_KILJAEDEN_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Faith] Faith and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_THRONE_OF_KILJAEDEN_QUOTE" Language="en_US">
+			<Text>The mountain was so named by the warlock Gul'dan. Shortly before the opening of the Dark Portal, Gul'dan called the orc clans to the mountain to drink the blood of Mannoroth, thus enslaving them to the Burning Legion's will.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THE_HAND_OF_GULDAN_NAME" Language="en_US" >
+			<Text>The Hand of Gul'dan</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THE_HAND_OF_GULDAN_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Faith] Faith and +1 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_THE_HAND_OF_GULDAN_QUOTE" Language="en_US">
+			<Text>The Hand of Gul'dan is a massive volcano west of the Black Temple in Shadowmoon Valley. It is named after Gul'dan, the warlock who aided Medivh in opening the Dark Portal.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BLEEDING_MOUNTAIN_NAME" Language="en_US" >
+			<Text>Bleeding Mountain</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BLEEDING_MOUNTAIN_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_BLEEDING_MOUNTAIN_QUOTE" Language="en_US">
+			<Text>The Bleeding Mountain is a large mountain next to the Thunder Pass and inhabited by Firefury Giants. </Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DREADTALON_PEAK_NAME" Language="en_US" >
+			<Text>Dreadtalon Peak</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DREADTALON_PEAK_DESCRIPTION" Language="en_US" >
+			<Text>Two tile impassable natural wonder. +2 [ICON_Food] Food and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_DREADTALON_PEAK_QUOTE" Language="en_US">
+			<Text>Dreadtalon Peak is a large mountain spire in the Spires of Arak that is used as the main breeding ground of the dread ravens.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZANGARRA_NAME" Language="en_US" >
+			<Text>Zangarra</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZANGARRA_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder that can be found on coastal terrain and provides +4 [ICON_Science] Science.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_ZANGARRA_QUOTE" Language="en_US">
+			<Text>Zangarra is a sheltered, swampy valley located in Northeastern Talador.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRIMSON_FEN_NAME" Language="en_US" >
+			<Text>Crimson Fen</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRIMSON_FEN_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder that can be found on coastal terrain and provides +1 [ICON_Science] Science and +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_CRIMSON_FEN_QUOTE" Language="en_US">
+			<Text>Crimson Fen is a fungal swamp Something sinister is spreading from the Heart of the Fen, a disease that spreads by infecting unfortunate draenei and orcs via spores and driving them insane. </Text>
+		</Row>
 	</LocalizedText>
 </GameData>
