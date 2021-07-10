@@ -6,105 +6,90 @@
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_ANASTERIAN_SUNSTRIDER_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_ANASTERIAN_SUNSTRIDER_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_LLANE_WRYNN</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_LLANE_WRYNN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_LLANE_WRYNN_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_BLACKHAND</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_BLACKHAND_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_BLACKHAND_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_ORGRIM_DOOMHAMMER</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_ORGRIM_DOOMHAMMER_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_ORGRIM_DOOMHAMMER_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_GULDAN</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_GULDAN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_GULDAN_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_KAELTHAS_SUNSTRIDER</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_KAELTHAS_SUNSTRIDER_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_KAELTHAS_SUNSTRIDER_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_MAGNI_BRONZEBEARD</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_MAGNI_BRONZEBEARD_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_MAGNI_BRONZEBEARD_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_MALFURION</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_MALFURION_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_MALFURION_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_AZHARA</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_MALFURION_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_MALFURION_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_TERENAS_MENETHIL</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_TERENAS_MENETHIL_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_TERENAS_MENETHIL_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_LEI_SHEN</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_LEI_SHEN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_LEI_SHEN_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_SHAOHAO</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_SHAOHAO_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_SHAOHAO_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_GROMMASH_HELLSCREAM_AU</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_GROMMASH_HELLSCREAM_AU_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_GROMMASH_HELLSCREAM_AU_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_GULDAN_AU</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_GULDAN_AU_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_GULDAN_AU_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_ILLIDAN_STORMRAGE</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_ILLIDAN_STORMRAGE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_ILLIDAN_STORMRAGE_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<!-- City States-->
 		<Row>
@@ -112,70 +97,60 @@
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_GORIAN</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_PINCHWHISTLE</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_PINCHWHISTLE</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_SKETTIS</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_SKETTIS</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_LAUGHING_SKULL_CLAN</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_LAUGHING_SKULL_CLAN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_LAUGHING_SKULL_CLAN</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_FROSTWOLF_CLAN</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_FROSTWOLF_CLAN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_FROSTWOLF_CLAN</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_SHADOWMOON_CLAN</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_SHADOWMOON_CLAN</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_GARADAR</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_GARADAR</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_SHATTRATH</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_SHATTRATH</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_AREA52</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_AREA52</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<Row>
 			<Type>CIVILIZATION_STORMSPIRE</Type>
 			<Usage>Minor</Usage>
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_STORMSPIRE</SecondaryColor>
-			<TextColor>COLOR_PLAYER_CITY_STATE_MILITARISTIC_SECONDARY</TextColor>
 		</Row>
 		<!-- End of City States-->
 	</PlayerColors>

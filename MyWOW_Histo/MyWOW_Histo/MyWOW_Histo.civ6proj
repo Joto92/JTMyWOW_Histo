@@ -66,6 +66,7 @@
     <AssociationData><![CDATA[<Associations>
 	<Dependency type="Mod" title="JT: World of Warcraft Mod" id="f1c32ba6-b50b-413a-b251-1ac8147f289a" />
 </Associations>]]></AssociationData>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
